@@ -1,0 +1,594 @@
+# EMS Respiratory Emergencies by Scope of Practice
+
+## Overview
+Respiratory emergencies are among the most common EMS calls and require rapid assessment and intervention. Early recognition of respiratory distress versus respiratory failure is critical, as progression can be rapid and life-threatening.
+
+## Classification of Respiratory Emergencies
+
+### Respiratory Distress vs. Respiratory Failure
+**Respiratory Distress**: Patient is working harder to breathe but maintaining adequate oxygenation and ventilation
+**Respiratory Failure**: Patient cannot maintain adequate oxygenation and/or ventilation despite increased work of breathing
+
+---
+
+## 1. ASTHMA / REACTIVE AIRWAY DISEASE
+
+### Definition
+Chronic inflammatory disease of the airways characterized by reversible airway obstruction, bronchospasm, and increased mucus production.
+
+### Pathophysiology
+- Bronchial smooth muscle contraction
+- Airway inflammation and edema
+- Increased mucus secretion
+- Air trapping and hyperinflation
+
+### Triggers
+- Allergens (pollen, dust, pet dander)
+- Irritants (smoke, strong odors, pollution)
+- Exercise, cold air
+- Respiratory infections
+- Emotional stress
+- Medications (aspirin, beta-blockers)
+
+### Signs and Symptoms
+**Mild to Moderate**
+- Wheezing (especially expiratory)
+- Shortness of breath
+- Chest tightness
+- Cough (often non-productive)
+- Anxiety
+- Tachypnea, mild tachycardia
+
+**Severe**
+- Severe dyspnea, unable to speak in full sentences
+- Accessory muscle use
+- Tripod positioning
+- Diaphoresis
+- Peak flow <50% of predicted
+- Cyanosis
+
+**Life-Threatening (Near-Fatal Asthma)**
+- Silent chest (absence of wheezing)
+- Altered mental status
+- Bradycardia or severe tachycardia
+- Pulsus paradoxus >25mmHg
+- Exhaustion
+
+### Treatment by Scope
+
+#### EMT Scope
+- Position patient in position of comfort (usually sitting upright)
+- High-flow oxygen (15L via non-rebreather mask)
+- Assist with patient's prescribed inhaler (albuterol MDI)
+- Calm and reassure patient
+- Monitor vital signs and SpO2
+- Rapid transport if severe
+
+#### AEMT Scope
+- All EMT interventions plus:
+- Albuterol 2.5mg via nebulizer (can repeat)
+- IV access
+- CPAP 5-10cmH2O (if cooperative and not severely hypoxic)
+- Advanced airway management if needed
+
+#### Paramedic Scope
+- All AEMT interventions plus:
+- Ipratropium bromide 0.5mg nebulized (combined with albuterol)
+- Magnesium sulfate 2g IV over 20 minutes for severe cases
+- Methylprednisolone 125mg IV
+- Epinephrine 0.3mg IM for near-fatal asthma
+- Rapid sequence intubation if respiratory failure
+- Consider terbutaline SQ in severe cases
+
+---
+
+## 2. CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD)
+
+### Definition
+Progressive disease characterized by airflow limitation that is not fully reversible, including chronic bronchitis and emphysema.
+
+### Pathophysiology
+- Chronic bronchitis: Excessive mucus production, airway inflammation
+- Emphysema: Alveolar destruction, loss of elastic recoil
+- Air trapping and hyperinflation
+- V/Q mismatch
+
+### Risk Factors
+- Smoking (primary cause)
+- Environmental exposures
+- Alpha-1 antitrypsin deficiency
+- Aging
+
+### Signs and Symptoms
+**Stable COPD**
+- Chronic cough with sputum production
+- Progressive dyspnea
+- Barrel chest
+- Pursed-lip breathing
+- Clubbing of fingers
+
+**COPD Exacerbation**
+- Increased dyspnea
+- Change in sputum (color, volume, consistency)
+- Increased cough
+- Fever
+- Wheezing, decreased breath sounds
+- Use of accessory muscles
+- Fatigue, confusion
+
+### Treatment by Scope
+
+#### EMT Scope
+- Position patient in position of comfort
+- High flow oxygen for COPD patients with respiratory distress
+- Assist with prescribed inhalers
+- Monitor vital signs
+- Transport to hospital
+
+#### AEMT Scope
+- All EMT interventions plus:
+- Albuterol 2.5mg nebulized
+- IV access
+- CPAP (available in some states for EMTs and widely used at AEMT level)
+- Advanced airway management if needed
+
+#### Paramedic Scope
+- All AEMT interventions plus:
+- Ipratropium bromide 0.5mg nebulized
+- Methylprednisolone 125mg IV
+- Consider magnesium sulfate for severe bronchospasm
+- Advanced airway management
+- BiPAP if available
+
+**CRITICAL NOTE**: Gone are the days of definitive airway management as first-line therapy for COPD - focus on bronchodilators and non-invasive ventilation first.
+
+---
+
+## 3. CONGESTIVE HEART FAILURE / ACUTE PULMONARY EDEMA
+
+### Definition
+Fluid accumulation in the lungs due to heart failure, causing impaired gas exchange.
+
+### Pathophysiology
+- Left heart failure leads to increased pulmonary capillary pressure
+- Fluid leaks from capillaries into alveoli
+- Impaired gas exchange
+- Increased work of breathing
+
+### Causes
+- Myocardial infarction
+- Hypertensive crisis
+- Medication non-compliance
+- Fluid overload
+- Arrhythmias
+
+### Signs and Symptoms
+**Early**
+- Dyspnea on exertion
+- Orthopnea (difficulty breathing when lying flat)
+- Paroxysmal nocturnal dyspnea
+- Ankle swelling
+
+**Acute Pulmonary Edema**
+- Severe dyspnea
+- Pink, frothy sputum
+- Crackles (rales) in lung bases, progressing upward
+- JVD, S3 gallop
+- Hypertension (usually)
+- Anxiety, feeling of drowning
+
+### Treatment by Scope
+
+#### EMT Scope
+- Position patient sitting upright with legs dependent
+- High-flow oxygen
+- Assist with prescribed nitroglycerin (if BP >100 systolic)
+- Monitor vital signs
+- Rapid transport
+
+#### AEMT Scope
+- All EMT interventions plus:
+- CPAP (standard of care for CHF)
+- IV access (minimal fluids)
+- Nitroglycerin administration
+- 12-lead ECG
+
+#### Paramedic Scope
+- All AEMT interventions plus:
+- Furosemide (Lasix) 40-80mg IV
+- Nitroglycerin IV drip
+- Morphine 2-4mg IV (if hypertensive)
+- BiPAP if available
+- Advanced cardiac monitoring
+- Consider CPAP to BiPAP conversion
+
+---
+
+## 4. PNEUMONIA
+
+### Definition
+Infection of the lung parenchyma causing inflammation and fluid accumulation in alveoli.
+
+### Types
+- Community-acquired pneumonia (CAP)
+- Hospital-acquired pneumonia (HAP)
+- Ventilator-associated pneumonia (VAP)
+- Aspiration pneumonia
+
+### Signs and Symptoms
+- Fever, chills
+- Productive cough with purulent sputum
+- Dyspnea
+- Chest pain (pleuritic)
+- Crackles, decreased breath sounds
+- Hypoxemia
+- Altered mental status (especially elderly)
+
+### Treatment by Scope
+
+#### EMT Scope
+- High-flow oxygen
+- Position of comfort
+- Monitor vital signs and temperature
+- Transport to hospital
+
+#### AEMT Scope
+- All EMT interventions plus:
+- IV access
+- Fluid resuscitation if signs of sepsis
+- Advanced airway if needed
+
+#### Paramedic Scope
+- All AEMT interventions plus:
+- Aggressive fluid resuscitation for septic shock
+- Vasopressor support if hypotensive
+- Advanced airway management
+- Consider CPAP for hypoxemic respiratory failure
+
+---
+
+## 5. PNEUMOTHORAX
+
+### Definition
+Accumulation of air in the pleural space causing lung collapse.
+
+### Types
+- **Simple Pneumothorax**: <30% collapse, stable vital signs
+- **Tension Pneumothorax**: Progressive air accumulation causing cardiovascular compromise
+- **Open Pneumothorax**: Chest wall defect allowing air entry
+
+### Signs and Symptoms
+**Simple Pneumothorax**
+- Sudden onset chest pain
+- Dyspnea
+- Decreased breath sounds on affected side
+- Hyperresonance to percussion
+
+**Tension Pneumothorax**
+- Severe respiratory distress
+- Hypotension, tachycardia
+- JVD
+- Tracheal deviation (late sign)
+- Absent breath sounds on affected side
+
+### Treatment by Scope
+
+#### EMT Scope
+- High-flow oxygen
+- Position of comfort
+- Monitor vital signs
+- Rapid transport
+- Occlusive dressing for open pneumothorax (tape on 3 sides)
+
+#### AEMT Scope
+- All EMT interventions plus:
+- IV access
+- Advanced airway if needed
+- Rapid transport for tension pneumothorax
+
+#### Paramedic Scope
+- All AEMT interventions plus:
+- Needle decompression for tension pneumothorax (2nd intercostal space, midclavicular line)
+- Chest tube placement (if trained/authorized)
+- Advanced monitoring
+
+---
+
+## 6. PULMONARY EMBOLISM
+
+### Definition
+Blockage of pulmonary arteries by blood clots, fat, or air emboli.
+
+### Risk Factors
+- Recent surgery or immobilization
+- Pregnancy
+- Oral contraceptives
+- Malignancy
+- DVT history
+
+### Signs and Symptoms
+- Sudden onset dyspnea
+- Chest pain (pleuritic)
+- Hemoptysis
+- Tachypnea, tachycardia
+- Hypoxemia
+- Anxiety, sense of impending doom
+- Signs of right heart strain
+
+### Treatment by Scope
+
+#### EMT Scope
+- High-flow oxygen
+- Position of comfort
+- Monitor vital signs
+- Rapid transport
+
+#### AEMT Scope
+- All EMT interventions plus:
+- IV access
+- Advanced airway if needed
+
+#### Paramedic Scope
+- All AEMT interventions plus:
+- Fluid resuscitation if hypotensive
+- Vasopressor support for massive PE
+- Advanced airway management
+- Consider fibrinolytic coordination with hospital
+
+---
+
+## 7. FOREIGN BODY AIRWAY OBSTRUCTION
+
+### Definition
+Partial or complete blockage of the airway by foreign material.
+
+### Types
+- **Partial Obstruction**: Patient can cough, speak, or breathe
+- **Complete Obstruction**: Unable to cough, speak, or breathe
+
+### Signs and Symptoms
+**Partial Obstruction**
+- Coughing
+- Wheezing or stridor
+- Able to speak
+
+**Complete Obstruction**
+- Universal choking sign
+- Unable to speak or cough
+- Cyanosis
+- Loss of consciousness
+
+### Treatment by Scope
+
+#### EMT Scope
+- **Conscious Patient**: Encourage coughing, back blows, abdominal thrusts
+- **Unconscious Patient**: CPR with airway checks between cycles
+- Direct laryngoscopy and Magill forceps
+- Bag-mask ventilation
+
+#### AEMT Scope
+- All EMT interventions plus:
+- Supraglottic airway devices
+- Advanced airway techniques
+
+#### Paramedic Scope
+- All AEMT interventions plus:
+- Endotracheal intubation
+- Surgical airway (cricothyrotomy)
+- Flexible bronchoscopy (if available)
+
+---
+
+## PEDIATRIC RESPIRATORY EMERGENCIES
+
+### Key Differences from Adults
+- Smaller airway diameter
+- Higher metabolic rate and oxygen consumption
+- Less respiratory reserve
+- Different normal vital signs by age
+
+### Common Pediatric Conditions
+
+#### CROUP (Laryngotracheobronchitis)
+**Signs/Symptoms**
+- Barking cough
+- Inspiratory stridor
+- Fever
+- Hoarse voice
+
+**Treatment by Scope**
+- **EMT**: Cool mist, position of comfort, transport
+- **AEMT**: Racemic epinephrine nebulized, IV access
+- **Paramedic**: Dexamethasone 0.6mg/kg PO/IV
+
+#### EPIGLOTTITIS
+**Signs/Symptoms**
+- High fever
+- Drooling
+- Tripod positioning
+- Muffled voice
+- Inspiratory stridor
+
+**Treatment by Scope**
+- **All Levels**: DO NOT examine throat, keep child calm, high-flow oxygen, rapid transport
+- **Paramedic**: Prepare for surgical airway
+
+#### BRONCHIOLITIS (RSV)
+**Signs/Symptoms**
+- Wheezing
+- Fine crackles
+- Fever
+- Nasal flaring, retractions
+
+**Treatment by Scope**
+- **EMT**: High-flow oxygen, suction, transport
+- **AEMT**: Albuterol trial (may not be effective)
+- **Paramedic**: CPAP if age appropriate, advanced airway if needed
+
+---
+
+## GENERAL RESPIRATORY ASSESSMENT
+
+### Primary Assessment (ABCDE)
+- **Airway**: Patent, compromised, or obstructed
+- **Breathing**: Rate, depth, effort, sounds
+- **Circulation**: Pulse, blood pressure, perfusion
+- **Disability**: Neurological status
+- **Exposure**: Look for trauma, rashes, edema
+
+### Respiratory Assessment Components
+1. **Rate**: Normal values by age
+2. **Rhythm**: Regular vs. irregular
+3. **Depth**: Shallow, normal, deep
+4. **Effort**: Use of accessory muscles, retractions
+5. **Sound**: Clear, wheezing, crackles, stridor, rhonchi
+
+### Vital Signs in Respiratory Distress
+- **Tachypnea**: Early compensatory mechanism
+- **Tachycardia**: Response to hypoxemia
+- **Hypertension**: Early response
+- **Hypotension**: Late, ominous sign
+- **Altered mental status**: Sign of hypoxemia/hypercapnia
+
+---
+
+## AIRWAY MANAGEMENT BY SCOPE
+
+### EMT Scope
+- Head-tilt chin-lift, jaw-thrust
+- Oropharyngeal and nasopharyngeal airways
+- Bag-mask ventilation
+- Suction
+- Oxygen delivery devices
+
+### AEMT Scope
+- All EMT skills plus:
+- Supraglottic airway devices (LMA, King airway)
+- CPAP (varies by state)
+- End-tidal CO2 monitoring
+
+### Paramedic Scope
+- All AEMT skills plus:
+- Endotracheal intubation
+- Rapid sequence intubation (RSI)
+- Surgical airway (cricothyrotomy)
+- Mechanical ventilation
+- Advanced pharmacology
+
+---
+
+## MEDICATIONS BY SCOPE
+
+### EMT Medications
+- Oxygen
+- Assist with patient's prescribed inhalers (albuterol, etc.)
+- Epinephrine auto-injector for anaphylaxis
+
+### AEMT Medications
+- All EMT medications plus:
+- Albuterol 2.5mg nebulized
+- Diphenhydramine for allergic reactions
+- CPAP therapy
+
+### Paramedic Medications
+- All AEMT medications plus:
+- **Bronchodilators**: Ipratropium bromide, terbutaline
+- **Anti-inflammatories**: Methylprednisolone, dexamethasone
+- **Diuretics**: Furosemide
+- **Vasodilators**: Nitroglycerin
+- **Magnesium sulfate** for severe bronchospasm
+- **RSI medications**: Etomidate, succinylcholine, rocuronium
+
+---
+
+## TRANSPORT CONSIDERATIONS
+
+### BLS Transport Appropriate
+- Stable vital signs
+- Responding to initial treatment
+- No advanced interventions needed
+
+### ALS Transport Required
+- Respiratory failure
+- Need for advanced airway
+- Medication administration required
+- Hemodynamic instability
+
+### Destination Selection
+- **Community Hospital**: Stable patients
+- **Tertiary Care Center**: Severe respiratory failure, need for ICU
+- **Pediatric Hospital**: Children with serious respiratory distress
+- **Specialty Centers**: Lung transplant candidates, ECMO candidates
+
+---
+
+## CONTINUOUS POSITIVE AIRWAY PRESSURE (CPAP)
+
+### Indications
+- CHF with pulmonary edema
+- COPD exacerbation
+- Pneumonia with hypoxemic respiratory failure
+- Asthma (selected cases)
+
+### Contraindications
+- Respiratory arrest
+- Vomiting
+- Upper airway obstruction
+- Facial trauma
+- Pneumothorax
+- Hemodynamic instability
+
+### Settings
+- **Pressure**: 5-10 cmH2O (start low, titrate up)
+- **FiO2**: 21-100% as needed
+- **Monitor**: SpO2, vital signs, work of breathing
+
+---
+
+## KEY CLINICAL PEARLS
+
+### Recognition of Impending Respiratory Failure
+- Altered mental status
+- Inability to speak in full sentences
+- Accessory muscle use
+- Paradoxical breathing
+- Silent chest in asthma
+- Bradycardia (late, ominous sign)
+
+### Oxygen Delivery
+- **Nasal Cannula**: 1-6L (24-44% FiO2)
+- **Simple Face Mask**: 6-10L (40-60% FiO2)
+- **Non-rebreather**: 15L (80-95% FiO2)
+- **Bag-mask**: 15L (nearly 100% FiO2)
+
+### Documentation Essentials
+- Time of onset
+- Precipitating factors
+- Initial presentation
+- Interventions and response
+- Changes during transport
+- Final disposition
+
+---
+
+## SPECIAL POPULATIONS
+
+### Geriatric Considerations
+- Multiple comorbidities
+- Polypharmacy interactions
+- Atypical presentations
+- Increased risk of aspiration
+- Decreased respiratory reserve
+
+### Pediatric Considerations
+- Age-appropriate equipment
+- Family-centered care
+- Rapid decompensation
+- Different normal values
+- Consider child abuse in unexplained injuries
+
+### Pregnancy Considerations
+- Physiological changes affect respiratory system
+- Positioning (left lateral to avoid supine hypotension)
+- Medication considerations
+- Fetal monitoring concerns

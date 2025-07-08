@@ -1,0 +1,369 @@
+# EMT Medical Emergencies Comprehensive Study Guide
+## Chapters 21-24: Allergy/Anaphylaxis, Toxicology, Behavioral Health & Gynecologic Emergencies
+
+---
+
+# CHAPTER 21: ALLERGY AND ANAPHYLAXIS
+
+## Core Definitions
+- **Allergic Reaction**: Exaggerated immune response by body's immune system
+- **Anaphylaxis**: Extreme, life-threatening allergic reaction involving multiple organ systems
+- **Histamines/Leukotrienes**: Key chemicals released causing symptoms
+
+## Recognition & Assessment
+
+### Mild Allergic Reactions
+- Itching, redness, tenderness
+- Local and contained
+
+### Severe Reactions (Anaphylaxis)
+- **Skin**: Urticaria (hives), angioedema
+- **Respiratory**: Wheezing, **STRIDOR** (most reliable upper airway indicator), bronchospasm
+- **Cardiovascular**: Hypotension, increased capillary permeability
+- **GI**: Nausea, vomiting, abdominal cramps
+
+## Five Categories of Common Allergens
+
+| Category | Examples | Characteristics |
+|----------|----------|-----------------|
+| **1. Foods** (Most Common) | Shellfish, peanuts | Symptoms 30+ min; severe without skin signs |
+| **2. Medications** (2nd Most) | Penicillin, NSAIDs | Injected = immediate; Oral = 30+ min |
+| **3. Plants** | Ragweed, oak, maple | Rapid/severe possible |
+| **4. Chemicals** | Makeup, latex | Use nitrile gloves, not latex |
+| **5. Insects** | Bees, wasps, hornets | 2M allergic; 62 deaths/year; honey bee stinger embeds 20 min |
+
+## Patient Assessment Protocol
+
+### Scene Size-Up → Primary → Transport Decision
+- **ABCs repeatedly assessed**
+- Position: High Fowler's (comfort) or supine (shock)
+- **Immediate transport** if anaphylaxis suspected
+- "Err on the side of emergency transport"
+
+### Stinger Removal
+- **DO**: Scrape with stiff object (credit card)
+- **DON'T**: Use tweezers/forceps
+- Wash, remove jewelry, position below heart, ice max 10 minutes
+
+## Epinephrine (EpiPen) - CRITICAL
+
+### Mechanism
+- Sympathomimetic hormone
+- Constricts blood vessels (reverses hypotension)
+- Increases cardiac contractility
+- Relieves bronchospasms
+
+### Dosages & Administration
+- **Adult**: 0.3 mg
+- **Child/Infant**: 0.15 mg
+- **Hold**: At least 10 seconds
+- **Onset**: Within 1 minute
+
+### **DECISION RULE**
+- **GIVE EPI IF**: Respiratory compromise OR hypotension present
+- **DON'T GIVE IF**: No respiratory compromise AND no hypotension
+- **ALWAYS TRANSPORT**: Even if patient feels better (effects wear off)
+
+---
+
+# CHAPTER 22: TOXICOLOGY
+
+## Four Routes of Exposure
+
+| Route | % | Priority Actions |
+|-------|---|-----------------|
+| **Ingestion** | 80% | Activated charcoal consideration, protect airway |
+| **Inhalation** | - | Fresh air, oxygen, Hazmat if toxic gas |
+| **Absorption** | - | Decontamination, brush dry powder first, flush |
+| **Injection** | - | Cannot remove/dilute, supportive care, prompt transport |
+
+## Activated Charcoal
+
+### Key Facts
+- **Dose**: 1 gram per kilogram body weight
+- **Conversion**: Pounds ÷ 2.2 = kilograms
+- **Standard bottle**: 50 grams
+- **Example**: 55-pound child = 25 kg = 25 grams needed
+
+### Indications/Contraindications
+- **Give**: Conscious patient who can protect airway, certain toxins
+- **Don't Give**: Decreased LOC, alkali poisons, cyanide, ethanol, iron, lithium, methanol, acids, solvents
+- **Requires**: Medical control pre-approval
+
+## Specific Substances
+
+### Alcohol (CNS Depressant)
+- **Effects**: Dulls senses, aggressive behavior
+- **Complications**: Hypoglycemia (check blood sugar)
+- **Withdrawal**: DTs - agitation, fever, sweating, tremors, seizures
+
+### Opiates/Opioids
+- **Signs**: Severe respiratory depression, pinpoint pupils, unconsciousness
+- **Treatment**: **Naloxone (Narcan)** IV/IM/Intranasal
+
+### Sympathomimetics (Stimulants)
+- **Examples**: Amphetamines, cocaine, MDMA
+- **Signs**: Hypertension, tachycardia, dilated pupils, paranoia
+- **Risks**: Seizures, cardiac dysrhythmias, stroke
+
+### Anticholinergics vs Cholinergics
+
+| Type | Memory Aid | Examples | Key Features |
+|------|------------|----------|--------------|
+| **Anticholinergic** | "Hot as hare, blind as bat, dry as bone, red as beet, mad as hatter" | Atropine, Benadryl, tricyclics | Death within 30 minutes possible |
+| **Cholinergic** | **DUMBELS** or **SLUDGE M** | Nerve gas, organophosphates | Antidote: DuoDote (atropine + pralidoxime) |
+
+**DUMBELS**: Diarrhea, Urination, Miosis, Bradycardia, Emesis, Lacrimation, Seizures
+**SLUDGE M**: Salivation, Lacrimation, Urination, Defecation, Gastric upsets, Emesis, Muscle twitching
+
+### Food Poisoning
+- **Salmonella**: Severe GI, 72 hours
+- **Staphylococcus**: Sudden onset 2-12 hours, unrefrigerated food
+- **Botulism**: Most severe, neurologic (blurred vision, weakness), 24 hours to 4 days
+
+---
+
+# CHAPTER 23: BEHAVIORAL HEALTH EMERGENCIES
+
+## Key Concepts
+- **Behavioral Crisis**: Inappropriate behavior becoming unacceptable/dangerous
+- **Most people with mental health disorders are NOT dangerous**
+- EMTs see more violent patients because they respond to crises
+
+## Underlying Causes
+
+### Organic (Physical)
+- Hypoglycemia, hypoxia, TBI, seizures, drug/alcohol, infections
+- **Remember**: Medical causes first
+
+### Functional (Psychological)
+- Schizophrenia, anxiety, depression when body structurally normal
+
+## Assessment & Management
+
+### Scene Safety FIRST
+- May need law enforcement backup immediately
+- Stage until scene secured
+- **De-escalation before restraint**
+
+### Specific Conditions
+
+#### Excited Delirium (Agitated Delirium)
+- **Signs**: Hyperactive/irrational, hallucinations, hypertension, tachycardia, diaphoresis
+- **Risk**: Sudden cardiac arrest, positional asphyxia
+- **Never leave unattended**
+
+#### Violence Risk Factors
+- Previous violent behavior
+- Tense posture, clenched fists
+- Near lethal objects
+- Loud, erratic speech
+- Poor impulse control
+
+#### Suicide Assessment
+- **Depression**: Most significant factor
+- **FALSE**: "Those who threaten won't do it"
+- **Risk**: Specific plans, hopelessness, detachment
+- **Remember**: Suicidal patients may also be homicidal
+
+## Patient Restraints
+
+### Restraint Protocol
+- **Indications**: Protect self/others, prevent self-injury, allow treatment
+- **Risks**: Positional asphyxia, aspiration, cardiac arrest
+- **Procedure**: 5 people ideal, four-point restraints preferred
+- **NEVER leave restrained patient unattended**
+- **Reassess**: Every 5 minutes for circulation/respiration
+
+## PTSD in Combat Veterans
+- **Statistics**: 7-8% general population, higher in military
+- **Management**: Eliminate excess noise, don't touch without explanation, calm tone, respect space
+- **Remember**: Trained with weapons, resourceful with improvised weapons
+
+---
+
+# CHAPTER 24: GYNECOLOGIC EMERGENCIES
+
+## Female Reproductive Anatomy
+
+| Structure | Location/Function |
+|-----------|------------------|
+| **Ovaries** | Each side lower abdomen; produce eggs |
+| **Fallopian Tubes** | Connect ovaries to uterus; fertilization site |
+| **Uterus** | Muscular organ; fetus grows here |
+| **Cervix** | Narrowest part of uterus; opens to vagina |
+| **Vagina** | Outermost cavity of reproductive system |
+
+### Key Terms
+- **Menarche**: Onset menstruation (ages 11-16)
+- **Menopause**: End menstrual activity (~50 years)
+- **Ovulation**: Release of ovum monthly
+- **Menstruation**: Occurs if no fertilization within 14 days
+
+## Common Gynecologic Emergencies
+
+### Pelvic Inflammatory Disease (PID)
+- **Pathophysiology**: Infection of upper reproductive organs
+- **Symptoms**: Generalized lower abdominal pain, abnormal/foul discharge, increased pain with intercourse, fever, malaise
+- **Risk Factors**: Multiple partners, untreated STDs, sexually active under 26, douching, IUD use
+- **Assessment**: Pain starts during/after menstruation, worse with walking (shuffling gait)
+- **Treatment**: Limited prehospital, usually non-emergency transport
+
+### Sexually Transmitted Diseases (STDs)
+- **Chlamydia**: Most common STD in US, usually mild/absent symptoms
+- **Bacterial Vaginosis**: Most common infection ages 15-44, can cause premature birth
+- **Gonorrhea**: Severe infections with cramping, bleeding between periods
+
+### Vaginal Bleeding
+- **Causes**: Abnormal menstruation, trauma, ectopic pregnancy, abortion, polyps, cancer
+- **Assessment**: Note quality and quantity of bleeding
+
+## Patient Assessment Protocol
+
+### Scene Safety & Primary Assessment
+1. Scene safety first
+2. Standard precautions (large amounts of blood/fluids possible)
+3. Document accurately (especially if crime scene)
+4. Police involvement if assault suspected
+5. Female EMT preferred for sexual assault cases
+
+### History Taking
+- Be sensitive (personal questions)
+- Protect privacy and dignity
+- For abdominal pain: OPQRST
+- For vaginal bleeding: OPQRST + SAMPLE
+- Ask about birth control, medical conditions, last menstrual period
+
+### Secondary Assessment
+- Focus on chief complaint area
+- Check vital signs
+- Assess abdomen for distension/tenderness
+- Note visible bleeding and mental status
+- **Physical exams limited and professional**
+- **Only examine genitalia if necessary for treatment**
+
+## Emergency Care Principles
+
+| Principle | Action |
+|-----------|--------|
+| **Maintain Privacy** | Get patient to private location if possible |
+| **Female EMT** | Have female EMT participate if possible |
+| **Vaginal Bleeding** | Use sanitary pads externally, document saturated pads |
+| **Never** | Pack or place dressings in vagina |
+| **External Injuries** | Treat with sterile compresses |
+
+## Sexual Assault Considerations
+- **Medical, psychological, and legal issues**
+- **Professionalism, tact, kindness, sensitivity**
+- Be aware of incapacitating drugs
+- Focus on medical treatment, psychological care, evidence preservation
+- **Persuade patient not to clean themselves**
+- Offer Rape Crisis Center contact
+- **Limit physical exam** to brief survey for life-threatening injuries
+
+---
+
+# QUICK REFERENCE CHARTS
+
+## Epinephrine Decision Tree
+```
+Patient with allergic reaction
+↓
+Does patient have respiratory compromise OR hypotension?
+↓                                    ↓
+YES                                 NO
+↓                                    ↓
+GIVE EPINEPHRINE                    DO NOT GIVE EPINEPHRINE
+Adult: 0.3mg                        Monitor and transport
+Child: 0.15mg
+Hold 10+ seconds
+↓
+ALWAYS TRANSPORT
+(effects wear off)
+```
+
+## Toxicology Priority Actions
+
+| Route | Immediate Action | Key Points |
+|-------|------------------|------------|
+| **Ingestion** | Protect airway, consider activated charcoal | 80% of poisonings, medical control approval needed |
+| **Inhalation** | Fresh air, oxygen | Call Hazmat for toxic gases |
+| **Absorption** | Decontamination | Brush dry powder first, then flush |
+| **Injection** | Supportive care | Cannot remove, prompt transport |
+
+## Behavioral Health Red Flags
+
+### Violence Risk Assessment
+- ✓ History of violence
+- ✓ Tense posture, clenched fists
+- ✓ Near weapons
+- ✓ Loud, erratic speech
+- ✓ Poor impulse control
+
+### Suicide Risk Assessment
+- ✓ Depression (most significant)
+- ✓ Specific plans
+- ✓ Hopelessness
+- ✓ Detachment from future
+- ✓ Previous attempts
+
+## Restraint Safety Checklist
+- [ ] Verbal de-escalation attempted first
+- [ ] 5-person team if possible
+- [ ] Four-point restraints preferred
+- [ ] Never leave unattended
+- [ ] Reassess every 5 minutes
+- [ ] Monitor for positional asphyxia
+
+## Gynecologic Emergency Assessment
+
+### OPQRST for Abdominal Pain/Bleeding
+- **O**nset: When did it start?
+- **P**rovocation: What makes it better/worse?
+- **Q**uality: Describe the pain/bleeding
+- **R**adiation: Does it spread?
+- **S**everity: Scale 1-10
+- **T**iming: Constant or intermittent?
+
+### Additional Questions
+- Birth control use?
+- Last menstrual period?
+- Associated symptoms (fever, nausea, syncope)?
+- Quality and quantity of bleeding/discharge?
+
+---
+
+# CRITICAL EXAM POINTS
+
+## Must-Know Facts
+1. **STRIDOR** = Most reliable indicator of upper airway swelling
+2. **Epinephrine indications**: Respiratory compromise OR hypotension
+3. **Activated charcoal dose**: 1 g/kg body weight (pounds ÷ 2.2 = kg)
+4. **Anticholinergic**: "Hot, blind, dry, red, mad"
+5. **Cholinergic**: DUMBELS or SLUDGE M
+6. **Restraint reassessment**: Every 5 minutes
+7. **PID pain**: Worse with walking (shuffling gait)
+8. **Cervix**: Narrowest part of uterus
+9. **Vagina**: Outermost cavity of reproductive system
+10. **Menstruation**: Occurs if no fertilization within 14 days
+
+## Common Exam Mistakes to Avoid
+- Don't give epinephrine without respiratory compromise or hypotension
+- Don't pack vagina with dressings
+- Don't leave restrained patients unattended
+- Don't force activated charcoal on unconscious patients
+- Don't assume suicidal patients won't act on threats
+- Don't examine genitalia unless necessary for treatment
+- Don't use latex gloves (use nitrile)
+- Don't use tweezers on bee stings (scrape instead)
+
+## Documentation Priorities
+1. **Allergic reactions**: Specific allergen, time of exposure, interventions
+2. **Poisonings**: Substance, amount, time, patient weight
+3. **Behavioral**: Exact patient statements, behaviors observed
+4. **Gynecologic**: Quality/quantity of bleeding, pads used
+5. **Sexual assault**: Medical findings only, evidence preservation
+
+---
+
+*Remember: When in doubt, err on the side of treatment and transport. Patient safety is always the priority.*

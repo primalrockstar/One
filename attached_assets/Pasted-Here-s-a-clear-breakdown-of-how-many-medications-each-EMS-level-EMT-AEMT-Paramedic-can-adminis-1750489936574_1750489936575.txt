@@ -1,0 +1,86 @@
+Here’s a clear breakdown of **how many medications each EMS level (EMT, AEMT, Paramedic) can administer by standard U.S. protocol**, along with key examples:
+
+---
+
+### **1. EMT-Basic (EMT) Medications**  
+**Typical # of Meds:** **6–10** (varies by state)  
+**Key Examples:**  
+1. Oxygen (O₂)  
+2. Oral Glucose  
+3. Aspirin (chewable)  
+4. Activated Charcoal (rarely used)  
+5. Epinephrine Auto-Injector (EpiPen®)  
+6. Naloxone (Narcan®) (IN/IM)  
+7. Inhaled Bronchodilators (e.g., Albuterol – some states)  
+8. Nitroglycerin (Assist – if prescribed to patient)  
+9. Racemic Epinephrine (for croup – pediatric protocols)  
+
+**Notes:**  
+- Limited to **non-invasive/auto-injector** routes (IM, IN, oral).  
+- Some states expand scope (e.g., EMTs giving albuterol or nitroglycerin independently).  
+
+---
+
+### **2. Advanced EMT (AEMT) Medications**  
+**Typical # of Meds:** **15–25** (EMT drugs + IV/IO/nebulized)  
+**Key Additions:**  
+1. Epinephrine (IV/IO/IM for anaphylaxis)  
+2. Dextrose (D10W/D50W)  
+3. Glucagon (IM)  
+4. Albuterol/Ipratropium (nebulized)  
+5. Nitroglycerin (SL – standalone admin)  
+6. Diphenhydramine (IV/IM)  
+7. Ketorolac (IM for pain – some states)  
+8. Normal Saline/Lactated Ringer’s (IV fluids)  
+9. Ondansetron (Zofran® – for nausea)  
+
+**Notes:**  
+- Can start **IVs/IOs** and administer **IV push meds**.  
+- Some states allow **limited pain control** (e.g., ketorolac).  
+
+---
+
+### **3. Paramedic Medications**  
+**Typical # of Meds:** **30–50+** (AEMT drugs + advanced cardiac/sedation)  
+**Key Additions:**  
+1. **Cardiac:**  
+   - Amiodarone, Lidocaine, Adenosine  
+   - Atropine, Dopamine  
+2. **Pain/Sedation:**  
+   - Fentanyl, Morphine, Ketamine  
+   - Midazolam, Propofol (for RSI)  
+3. **Respiratory:**  
+   - Magnesium Sulfate (asthma)  
+   - Succinylcholine (for intubation)  
+4. **Other:**  
+   - TXA (Tranexamic Acid – trauma)  
+   - Vasopressin, Norepinephrine (septic shock)  
+
+**Notes:**  
+- Full **IV/IO/ET/IN** routes.  
+- **Controlled substances** (e.g., fentanyl) require documentation.  
+
+---
+
+### **Protocol Variability by State**  
+- **EMTs:** Most restrictive (6–10 meds). Some states (e.g., NY) allow EMTs to give albuterol; others (e.g., CA) do not.  
+- **AEMTs:** Often include **IV fluids and antiemetics** (e.g., ondansetron).  
+- **Paramedics:** Largest scope, including **RSI drugs, vasopressors, and thrombolytics** (e.g., tPA in some systems).  
+
+---
+
+### **Quick Comparison Table**  
+| **Level**   | **# of Meds** | **Key Skills**                     | **Example Unique Meds**            |  
+|-------------|--------------|------------------------------------|------------------------------------|  
+| **EMT**     | 6–10         | Auto-injectors, oral meds          | EpiPen, Narcan, Aspirin            |  
+| **AEMT**    | 15–25        | IV/IO access, nebulized meds       | Dextrose, Nitroglycerin, Ketorolac |  
+| **Paramedic** | 30–50+     | Intubation, vasopressors, RSI      | Fentanyl, Amiodarone, Propofol     |  
+
+---
+
+### **Key Takeaways**  
+1. **EMTs** handle basics (O₂, epi, naloxone).  
+2. **AEMTs** add IV/IO meds (fluids, dextrose).  
+3. **Paramedics** manage advanced emergencies (cardiac, pain, intubation).  
+
+**Need your state’s specific protocol?** I can help refine this based on your region!

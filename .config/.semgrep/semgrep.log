@@ -1,0 +1,137 @@
+2025-07-08 19:51:58,341 - semgrep.run_scan - DEBUG - semgrep version 1.4.0
+2025-07-08 19:51:58,346 - semgrep.config_resolver - DEBUG - Loading local config from /home/runner/workspace/.config/.semgrep/semgrep_rules.json
+2025-07-08 19:51:58,359 - semgrep.config_resolver - DEBUG - Done loading local config from /home/runner/workspace/.config/.semgrep/semgrep_rules.json
+2025-07-08 19:51:58,363 - semgrep.config_resolver - DEBUG - Saving rules to /tmp/semgrep-93j362ka.rules
+2025-07-08 19:51:59,008 - semgrep.rule_lang - DEBUG - semgrep-core validation response: valid=True
+2025-07-08 19:51:59,008 - semgrep.rule_lang - DEBUG - semgrep-core validation succeeded
+2025-07-08 19:51:59,008 - semgrep.rule_lang - DEBUG - RPC validation succeeded
+2025-07-08 19:51:59,009 - semgrep.config_resolver - DEBUG - loaded 1 configs in 0.6624791622161865
+2025-07-08 19:51:59,106 - semgrep.run_scan - VERBOSE - running 715 rules from 1 config /home/runner/workspace/.config/.semgrep/semgrep_rules.json_0
+2025-07-08 19:51:59,107 - semgrep.run_scan - VERBOSE - No .semgrepignore found. Using default .semgrepignore rules. See the docs for the list of default ignores: https://semgrep.dev/docs/cli-usage/#ignore-files
+2025-07-08 19:51:59,109 - semgrep.run_scan - VERBOSE - Rules:
+2025-07-08 19:51:59,109 - semgrep.run_scan - VERBOSE - <SKIPPED DATA (too many entries; use --max-log-list-entries)>
+2025-07-08 19:52:00,016 - semgrep.core_runner - DEBUG - Passing whole rules directly to semgrep_core
+2025-07-08 19:52:00,282 - semgrep.core_runner - DEBUG - Running Semgrep engine with command:
+2025-07-08 19:52:00,282 - semgrep.core_runner - DEBUG - /tmp/_MEIMdWjKN/semgrep/bin/opengrep-core -json -rules /tmp/tmpm0aufisl.json -j 8 -targets /tmp/tmp6py10_zw -timeout 5 -timeout_threshold 3 -max_memory 0 -fast
+2025-07-08 19:52:35,708 - semgrep.core_runner - DEBUG - --- semgrep-core stderr ---
+[00.09][[34mINFO[0m]: Executed as: /tmp/_MEIMdWjKN/semgrep/bin/opengrep-core -json -rules /tmp/tmpm0aufisl.json -j 8 -targets /tmp/tmp6py10_zw -timeout 5 -timeout_threshold 3 -max_memory 0 -fast
+[00.09][[34mINFO[0m]: Version: 1.4.0
+[00.09][[34mINFO[0m]: Parsing rules in /tmp/tmpm0aufisl.json
+[00.54][[34mINFO[0m]: scan: processing 508 files (skipping 0), with 457 rules (skipping 0 )
+[02.68][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.express.security.injection.tainted-sql-string file: client/src/components/VoiceControl.tsx func: VoiceControl:4931]
+[0m[03.97][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.express.security.cors-misconfiguration file: client/src/components/VoiceControl.tsx func: VoiceControl:4931]
+[0m[09.31][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.typescript.react.security.audit.react-href-var file: client/src/App-new.tsx func: Dashboard:18764]
+[0m[09.58][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.typescript.react.security.audit.react-href-var file: client/src/App-new.tsx func: AssessmentTools:18766]
+[0m[09.96][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.typescript.react.security.audit.react-href-var file: client/src/App-new.tsx func: EmergencyProtocols:18794]
+[0m[10.18][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.typescript.react.security.audit.react-href-var file: client/src/App-new.tsx func: AIMedicationRecommendations:18876]
+[0m[10.37][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.express.security.audit.express-res-sendfile file: migration_package/routes.ts func: parseProtocolFromText:33788]
+[0m[10.89][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.typescript.react.security.audit.react-href-var file: client/src/App-new.tsx func: RegionalGuidelinesPage:19498]
+[0m[10.99][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.typescript.react.security.audit.react-href-var file: client/src/App-new.tsx func: TrainingScenarios:19504]
+[0m[12.43][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.lang.security.audit.path-traversal.path-join-resolve-traversal file: client/src/App-new.tsx func: Navigation:18735]
+[0m[12.58][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.lang.security.audit.path-traversal.path-join-resolve-traversal file: client/src/App-new.tsx func: Dashboard:18764]
+[0m[13.23][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.lang.security.audit.path-traversal.path-join-resolve-traversal file: client/src/App-new.tsx func: EmergencyProtocols:18794]
+[0m[14.16][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.lang.security.audit.path-traversal.path-join-resolve-traversal file: client/src/App-new.tsx func: PatientAssessmentModule:19468]
+[0m[14.38][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.lang.security.audit.path-traversal.path-join-resolve-traversal file: client/src/App-new.tsx func: RegionalGuidelinesPage:19498]
+[0m[15.78][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.lang.security.audit.detect-non-literal-require file: client/src/App-new.tsx func: EmergencyProtocols:18794]
+[0m[16.48][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.lang.security.audit.detect-non-literal-require file: client/src/App-new.tsx func: RegionalGuidelinesPage:19498]
+[0m[16.51][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.lang.security.audit.path-traversal.path-join-resolve-traversal file: migration_package/App-new.tsx func: EmergencyProtocols:71148]
+[0m[17.21][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.lang.security.audit.path-traversal.path-join-resolve-traversal file: migration_package/App-new.tsx func: RegionalGuidelinesPage:71652]
+[0m[18.31][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.lang.security.audit.detect-non-literal-fs-filename file: client/src/App-new.tsx func: EmergencyProtocols:18794]
+[0m[18.73][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.lang.security.audit.detect-non-literal-require file: migration_package/App-new.tsx func: EmergencyProtocols:71148]
+[0m[19.08][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.lang.security.audit.detect-non-literal-fs-filename file: client/src/App-new.tsx func: RegionalGuidelinesPage:19498]
+[0m[19.60][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.lang.security.audit.detect-non-literal-require file: migration_package/App-new.tsx func: RegionalGuidelinesPage:71652]
+[0m[21.20][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.lang.security.audit.detect-non-literal-fs-filename file: migration_package/App-new.tsx func: EmergencyProtocols:71148]
+[0m[29.41][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.browser.security.js-open-redirect-from-function file: client/src/App-new.tsx func: RegionalGuidelinesPage:19498]
+[0m[31.02][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.browser.security.js-open-redirect-from-function file: migration_package/App-new.tsx func: EmergencyProtocols:71148]
+[0m[31.94][[33mWARNING[0m]: Fixpoint timeout while performing taint analysis [rule: config..semgrep.vendored-rules.javascript.browser.security.js-open-redirect-from-function file: migration_package/App-new.tsx func: RegionalGuidelinesPage:71652]
+[0m--- end semgrep-core stderr ---
+2025-07-08 19:52:35,828 - semgrep.rule_match - DEBUG - match_key = ('', PosixPath('API_DOCUMENTATION.md'), 'config..semgrep.vendored-rules.generic.secrets.gitleaks.hashicorp-tf-password') match_id = 21dd640976fc4be6c07b65c47c0bc09af152d689147b068f1c4427b038f47ea412161c8de54b85fe155d1c4909c1d5f6443a4ffc4f3f16d26ff887e0a266dbb5_0
+2025-07-08 19:52:35,829 - semgrep.rule_match - DEBUG - match_key = ('(?i)(?:administrator_login_password|password)(?:[0-9a-z\\-_\\t .]{0,20})(?:[\\s|\']|[\\s|"]){0,3}(?:=|>|:{1,3}=|\\|\\|:|<=|=>|:|\\?=)(?:\'|\\"|\\s|=|\\x60){0,5}("[a-z0-9=_\\-]{8,20}")(?:[\'|\\"|\\n|\\r|\\s|\\x60|;]|$)', PosixPath('API_DOCUMENTATION.md'), 'config..semgrep.vendored-rules.generic.secrets.gitleaks.hashicorp-tf-password') match_id = 2bb93076888edb1f1d55b29307966c44c80764ed7f31cfc7e0b2926fd0305253b8661ebc89f35fcb1ee66c17a009abd018f5d97bb7ab687b4b5cb97e8c7db87c_0
+2025-07-08 19:52:35,829 - semgrep.rule_match - DEBUG - match_key = ('(?i)(?:administrator_login_password|password)(?:[0-9a-z\\-_\\t .]{0,20})(?:[\\s|\']|[\\s|"]){0,3}(?:=|>|:{1,3}=|\\|\\|:|<=|=>|:|\\?=)(?:\'|\\"|\\s|=|\\x60){0,5}("[a-z0-9=_\\-]{8,20}")(?:[\'|\\"|\\n|\\r|\\s|\\x60|;]|$)', PosixPath('API_DOCUMENTATION.md'), 'config..semgrep.vendored-rules.generic.secrets.gitleaks.hashicorp-tf-password') match_id = 2bb93076888edb1f1d55b29307966c44c80764ed7f31cfc7e0b2926fd0305253b8661ebc89f35fcb1ee66c17a009abd018f5d97bb7ab687b4b5cb97e8c7db87c_0
+2025-07-08 19:52:35,830 - semgrep.rule_match - DEBUG - match_key = ('(?i)(?:administrator_login_password|password)(?:[0-9a-z\\-_\\t .]{0,20})(?:[\\s|\']|[\\s|"]){0,3}(?:=|>|:{1,3}=|\\|\\|:|<=|=>|:|\\?=)(?:\'|\\"|\\s|=|\\x60){0,5}("[a-z0-9=_\\-]{8,20}")(?:[\'|\\"|\\n|\\r|\\s|\\x60|;]|$)', PosixPath('API_DOCUMENTATION.md'), 'config..semgrep.vendored-rules.generic.secrets.gitleaks.hashicorp-tf-password') match_id = 2bb93076888edb1f1d55b29307966c44c80764ed7f31cfc7e0b2926fd0305253b8661ebc89f35fcb1ee66c17a009abd018f5d97bb7ab687b4b5cb97e8c7db87c_0
+2025-07-08 19:52:35,830 - semgrep.rule_match - DEBUG - match_key = ('', PosixPath('client/index.html'), 'config..semgrep.vendored-rules.html.security.audit.missing-integrity') match_id = 0ee74fd49637bebe183eca7188dbde26e386314e62cc2e7ba1ee60b377b638243fcd84e6c6fa04886198ccacfa6a711bfbcc61a28f9ddc913d5b3c53083cbc90_0
+2025-07-08 19:52:35,831 - semgrep.rule_match - DEBUG - match_key = (' rel="canonical" href="https://tinyurl.com/MEDICLAND" / (?is).*integrity= (google-analytics\\.com|fonts\\.googleapis\\.com|fonts\\.gstatic\\.com|googletagmanager\\.com) .*rel\\s*=\\s*[\'"]?preconnect.* href="... :// ..." href="//..." href=\'... :// ...\' href=\'//...\' src="... :// ..." src="//..." src=\'... :// ...\' src=\'//...\' <link  rel="canonical" href="https://tinyurl.com/MEDICLAND" / > <script  rel="canonical" href="https://tinyurl.com/MEDICLAND" / >...</script>', PosixPath('client/index.html'), 'config..semgrep.vendored-rules.html.security.audit.missing-integrity') match_id = c779602655193ac893151f280e0db625f5b3bafd3cda39f410fbe2359bc802ece5afefb5ba32e3442bc52a2abefe9895c7b79c5266e344b480183ca9920754b1_0
+2025-07-08 19:52:35,831 - semgrep.rule_match - DEBUG - match_key = (' rel="canonical" href="https://tinyurl.com/MEDICLAND" / (?is).*integrity= (google-analytics\\.com|fonts\\.googleapis\\.com|fonts\\.gstatic\\.com|googletagmanager\\.com) .*rel\\s*=\\s*[\'"]?preconnect.* href="... :// ..." href="//..." href=\'... :// ...\' href=\'//...\' src="... :// ..." src="//..." src=\'... :// ...\' src=\'//...\' <link  rel="canonical" href="https://tinyurl.com/MEDICLAND" / > <script  rel="canonical" href="https://tinyurl.com/MEDICLAND" / >...</script>', PosixPath('client/index.html'), 'config..semgrep.vendored-rules.html.security.audit.missing-integrity') match_id = c779602655193ac893151f280e0db625f5b3bafd3cda39f410fbe2359bc802ece5afefb5ba32e3442bc52a2abefe9895c7b79c5266e344b480183ca9920754b1_0
+2025-07-08 19:52:35,832 - semgrep.rule_match - DEBUG - match_key = (' rel="canonical" href="https://tinyurl.com/MEDICLAND" / (?is).*integrity= (google-analytics\\.com|fonts\\.googleapis\\.com|fonts\\.gstatic\\.com|googletagmanager\\.com) .*rel\\s*=\\s*[\'"]?preconnect.* href="... :// ..." href="//..." href=\'... :// ...\' href=\'//...\' src="... :// ..." src="//..." src=\'... :// ...\' src=\'//...\' <link  rel="canonical" href="https://tinyurl.com/MEDICLAND" / > <script  rel="canonical" href="https://tinyurl.com/MEDICLAND" / >...</script>', PosixPath('client/index.html'), 'config..semgrep.vendored-rules.html.security.audit.missing-integrity') match_id = c779602655193ac893151f280e0db625f5b3bafd3cda39f410fbe2359bc802ece5afefb5ba32e3442bc52a2abefe9895c7b79c5266e344b480183ca9920754b1_0
+2025-07-08 19:52:35,832 - semgrep.rule_match - DEBUG - match_key = ('', PosixPath('client/src/data/ai-medication-recommendations.ts'), 'config..semgrep.vendored-rules.javascript.lang.security.audit.unsafe-formatstring') match_id = a2d6235bb834738337f2fe40d3959a807ae5f35f08ff9494d691d18796c2862e9f985a73e32847d0e83bf47a0e01c79fb32dd6af558f95f31e596a68d3c006b6_0
+2025-07-08 19:52:35,833 - semgrep.rule_match - DEBUG - match_key = ('"..." + "..."\n $X + $Y $X.concat($Y) `...${...}...`\n $X.concat("...")\n ``AI Engine: Tree "tree.condition" matches:` $UTIL = require(\'util\')\n...\n $UTIL.format(``AI Engine: Tree "tree.condition" matches:`,matches,...)\n console.log(``AI Engine: Tree "tree.condition" matches:`,matches,...)\n', PosixPath('client/src/data/ai-medication-recommendations.ts'), 'config..semgrep.vendored-rules.javascript.lang.security.audit.unsafe-formatstring') match_id = df0086fdcbd77480edfc60259b7ff33640176163066ad5742df26b28b5673713273593ca18fce4e9fdae3867ae05e41b6ad4733e25532e759e55a5dc5d545e3d_0
+2025-07-08 19:52:35,833 - semgrep.rule_match - DEBUG - match_key = ('"..." + "..."\n $X + $Y $X.concat($Y) `...${...}...`\n $X.concat("...")\n ``AI Engine: Tree "tree.condition" matches:` $UTIL = require(\'util\')\n...\n $UTIL.format(``AI Engine: Tree "tree.condition" matches:`,matches,...)\n console.log(``AI Engine: Tree "tree.condition" matches:`,matches,...)\n', PosixPath('client/src/data/ai-medication-recommendations.ts'), 'config..semgrep.vendored-rules.javascript.lang.security.audit.unsafe-formatstring') match_id = df0086fdcbd77480edfc60259b7ff33640176163066ad5742df26b28b5673713273593ca18fce4e9fdae3867ae05e41b6ad4733e25532e759e55a5dc5d545e3d_0
+2025-07-08 19:52:35,834 - semgrep.rule_match - DEBUG - match_key = ('"..." + "..."\n $X + $Y $X.concat($Y) `...${...}...`\n $X.concat("...")\n ``AI Engine: Tree "tree.condition" matches:` $UTIL = require(\'util\')\n...\n $UTIL.format(``AI Engine: Tree "tree.condition" matches:`,matches,...)\n console.log(``AI Engine: Tree "tree.condition" matches:`,matches,...)\n', PosixPath('client/src/data/ai-medication-recommendations.ts'), 'config..semgrep.vendored-rules.javascript.lang.security.audit.unsafe-formatstring') match_id = df0086fdcbd77480edfc60259b7ff33640176163066ad5742df26b28b5673713273593ca18fce4e9fdae3867ae05e41b6ad4733e25532e759e55a5dc5d545e3d_0
+2025-07-08 19:52:35,835 - semgrep.rule_match - DEBUG - match_key = ('', PosixPath('client/src/data/ai-medication-recommendations.ts'), 'config..semgrep.vendored-rules.javascript.lang.security.audit.unsafe-formatstring') match_id = a2d6235bb834738337f2fe40d3959a807ae5f35f08ff9494d691d18796c2862e9f985a73e32847d0e83bf47a0e01c79fb32dd6af558f95f31e596a68d3c006b6_0
+2025-07-08 19:52:35,835 - semgrep.rule_match - DEBUG - match_key = ('"..." + "..."\n $X + $Y $X.concat($Y) `...${...}...`\n $X.concat("...")\n ``AI Engine: Error evaluating tree "tree.condition":` $UTIL = require(\'util\')\n...\n $UTIL.format(``AI Engine: Error evaluating tree "tree.condition":`,error,...)\n console.error(``AI Engine: Error evaluating tree "tree.condition":`,error,...)\n', PosixPath('client/src/data/ai-medication-recommendations.ts'), 'config..semgrep.vendored-rules.javascript.lang.security.audit.unsafe-formatstring') match_id = 12acc1c37d77a6859245d38e543e66fc0ac1a0fb522a530842c4e36b7bef5397059989ad6d92310d515e34d95d127b4ab5a6f3c03752c4ce25ecad4c42fbb7b1_0
+2025-07-08 19:52:35,836 - semgrep.rule_match - DEBUG - match_key = ('"..." + "..."\n $X + $Y $X.concat($Y) `...${...}...`\n $X.concat("...")\n ``AI Engine: Error evaluating tree "tree.condition":` $UTIL = require(\'util\')\n...\n $UTIL.format(``AI Engine: Error evaluating tree "tree.condition":`,error,...)\n console.error(``AI Engine: Error evaluating tree "tree.condition":`,error,...)\n', PosixPath('client/src/data/ai-medication-recommendations.ts'), 'config..semgrep.vendored-rules.javascript.lang.security.audit.unsafe-formatstring') match_id = 12acc1c37d77a6859245d38e543e66fc0ac1a0fb522a530842c4e36b7bef5397059989ad6d92310d515e34d95d127b4ab5a6f3c03752c4ce25ecad4c42fbb7b1_0
+2025-07-08 19:52:35,837 - semgrep.rule_match - DEBUG - match_key = ('"..." + "..."\n $X + $Y $X.concat($Y) `...${...}...`\n $X.concat("...")\n ``AI Engine: Error evaluating tree "tree.condition":` $UTIL = require(\'util\')\n...\n $UTIL.format(``AI Engine: Error evaluating tree "tree.condition":`,error,...)\n console.error(``AI Engine: Error evaluating tree "tree.condition":`,error,...)\n', PosixPath('client/src/data/ai-medication-recommendations.ts'), 'config..semgrep.vendored-rules.javascript.lang.security.audit.unsafe-formatstring') match_id = 12acc1c37d77a6859245d38e543e66fc0ac1a0fb522a530842c4e36b7bef5397059989ad6d92310d515e34d95d127b4ab5a6f3c03752c4ce25ecad4c42fbb7b1_0
+2025-07-08 19:52:35,838 - semgrep.rule_match - DEBUG - match_key = ('', PosixPath('keep-alive-server.js'), 'config..semgrep.vendored-rules.javascript.lang.security.html-in-template-string') match_id = 19171a269d19fbbade5a933c27f0cb35d71359c0eae5a2a7e8d02207d2b12270c42be98c160fb263af70083e55a1d57b2c93f0d9846349fd6adbf20ad7f32461_0
+2025-07-08 19:52:35,839 - semgrep.rule_match - DEBUG - match_key = (' seconds<br>\n      Status: Ultra-Stable Configuration Active\n    </div>\n  </div>\n</body>\n</html> .*</?[a-zA-Z] ` seconds<br>\n      Status: Ultra-Stable Configuration Active\n    </div>\n  </div>\n</body>\n</html>${Math.floor(process.uptime())}...`\n `...${Math.floor(process.uptime())} seconds<br>\n      Status: Ultra-Stable Configuration Active\n    </div>\n  </div>\n</body>\n</html>`\n', PosixPath('keep-alive-server.js'), 'config..semgrep.vendored-rules.javascript.lang.security.html-in-template-string') match_id = 210e3995eea3f57e9a6fdf8e2f15ae7996dea205beb9fe80e112aa2c2e53afeb586402b0d8d655e13c6e57d2be93aa03202a23e62780a2c64b0a8d843b759f1a_0
+2025-07-08 19:52:35,840 - semgrep.rule_match - DEBUG - match_key = (' seconds<br>\n      Status: Ultra-Stable Configuration Active\n    </div>\n  </div>\n</body>\n</html> .*</?[a-zA-Z] ` seconds<br>\n      Status: Ultra-Stable Configuration Active\n    </div>\n  </div>\n</body>\n</html>${Math.floor(process.uptime())}...`\n `...${Math.floor(process.uptime())} seconds<br>\n      Status: Ultra-Stable Configuration Active\n    </div>\n  </div>\n</body>\n</html>`\n', PosixPath('keep-alive-server.js'), 'config..semgrep.vendored-rules.javascript.lang.security.html-in-template-string') match_id = 210e3995eea3f57e9a6fdf8e2f15ae7996dea205beb9fe80e112aa2c2e53afeb586402b0d8d655e13c6e57d2be93aa03202a23e62780a2c64b0a8d843b759f1a_0
+2025-07-08 19:52:35,841 - semgrep.rule_match - DEBUG - match_key = (' seconds<br>\n      Status: Ultra-Stable Configuration Active\n    </div>\n  </div>\n</body>\n</html> .*</?[a-zA-Z] ` seconds<br>\n      Status: Ultra-Stable Configuration Active\n    </div>\n  </div>\n</body>\n</html>${Math.floor(process.uptime())}...`\n `...${Math.floor(process.uptime())} seconds<br>\n      Status: Ultra-Stable Configuration Active\n    </div>\n  </div>\n</body>\n</html>`\n', PosixPath('keep-alive-server.js'), 'config..semgrep.vendored-rules.javascript.lang.security.html-in-template-string') match_id = 210e3995eea3f57e9a6fdf8e2f15ae7996dea205beb9fe80e112aa2c2e53afeb586402b0d8d655e13c6e57d2be93aa03202a23e62780a2c64b0a8d843b759f1a_0
+2025-07-08 19:52:35,842 - semgrep.rule_match - DEBUG - match_key = ('', PosixPath('migration_package/API_DOCUMENTATION.md'), 'config..semgrep.vendored-rules.generic.secrets.gitleaks.hashicorp-tf-password') match_id = 7d7a19bfac86ef8e42547af788e1839b13c17cce25b62293f6b53c1a93fe2fbbf49024256d78ae02e186a628a7fbbe00171e0910de2bde1e84968c9b61ee994a_0
+2025-07-08 19:52:35,842 - semgrep.rule_match - DEBUG - match_key = ('(?i)(?:administrator_login_password|password)(?:[0-9a-z\\-_\\t .]{0,20})(?:[\\s|\']|[\\s|"]){0,3}(?:=|>|:{1,3}=|\\|\\|:|<=|=>|:|\\?=)(?:\'|\\"|\\s|=|\\x60){0,5}("[a-z0-9=_\\-]{8,20}")(?:[\'|\\"|\\n|\\r|\\s|\\x60|;]|$)', PosixPath('migration_package/API_DOCUMENTATION.md'), 'config..semgrep.vendored-rules.generic.secrets.gitleaks.hashicorp-tf-password') match_id = 96a51fd6f7592c1681f99c4ecb36ec8627cfedfd015b8f0ba44529eccf9c74763c241004259d7321f66da64f134bb0e4eff618c0081fc6c0cded4f07927d03ef_0
+2025-07-08 19:52:35,843 - semgrep.rule_match - DEBUG - match_key = ('(?i)(?:administrator_login_password|password)(?:[0-9a-z\\-_\\t .]{0,20})(?:[\\s|\']|[\\s|"]){0,3}(?:=|>|:{1,3}=|\\|\\|:|<=|=>|:|\\?=)(?:\'|\\"|\\s|=|\\x60){0,5}("[a-z0-9=_\\-]{8,20}")(?:[\'|\\"|\\n|\\r|\\s|\\x60|;]|$)', PosixPath('migration_package/API_DOCUMENTATION.md'), 'config..semgrep.vendored-rules.generic.secrets.gitleaks.hashicorp-tf-password') match_id = 96a51fd6f7592c1681f99c4ecb36ec8627cfedfd015b8f0ba44529eccf9c74763c241004259d7321f66da64f134bb0e4eff618c0081fc6c0cded4f07927d03ef_0
+2025-07-08 19:52:35,843 - semgrep.rule_match - DEBUG - match_key = ('(?i)(?:administrator_login_password|password)(?:[0-9a-z\\-_\\t .]{0,20})(?:[\\s|\']|[\\s|"]){0,3}(?:=|>|:{1,3}=|\\|\\|:|<=|=>|:|\\?=)(?:\'|\\"|\\s|=|\\x60){0,5}("[a-z0-9=_\\-]{8,20}")(?:[\'|\\"|\\n|\\r|\\s|\\x60|;]|$)', PosixPath('migration_package/API_DOCUMENTATION.md'), 'config..semgrep.vendored-rules.generic.secrets.gitleaks.hashicorp-tf-password') match_id = 96a51fd6f7592c1681f99c4ecb36ec8627cfedfd015b8f0ba44529eccf9c74763c241004259d7321f66da64f134bb0e4eff618c0081fc6c0cded4f07927d03ef_0
+2025-07-08 19:52:35,844 - semgrep.rule_match - DEBUG - match_key = ('', PosixPath('production-server.js'), 'config..semgrep.vendored-rules.javascript.express.security.audit.express-check-csurf-middleware-usage') match_id = 51a504888242a55a2f96c63997df79c84ae229d8537f799b2b5982b6cf89b6e148e6ee7a40fa8f8f9356e66cf6c6f98570c026e39e0a5c6c8732d4fcef57e8c7_0
+2025-07-08 19:52:35,844 - semgrep.rule_match - DEBUG - match_key = ("app = express()\n express = require('express')\n...\n import {$CSRF} from 'csrf'\n...\n import {$CSRF} from 'csurf'\n...\n require('csrf')\n...\n require('csurf')\n...\n", PosixPath('production-server.js'), 'config..semgrep.vendored-rules.javascript.express.security.audit.express-check-csurf-middleware-usage') match_id = 5c5a3165e363f562c6a87c2f72711e89cad524dfbcbfe6e22aa524cbae879a9adf2442d3ac81b313d76689ca5bf4eadf045c5d4aea5c1fe53adca324005177de_0
+2025-07-08 19:52:35,844 - semgrep.rule_match - DEBUG - match_key = ("app = express()\n express = require('express')\n...\n import {$CSRF} from 'csrf'\n...\n import {$CSRF} from 'csurf'\n...\n require('csrf')\n...\n require('csurf')\n...\n", PosixPath('production-server.js'), 'config..semgrep.vendored-rules.javascript.express.security.audit.express-check-csurf-middleware-usage') match_id = 5c5a3165e363f562c6a87c2f72711e89cad524dfbcbfe6e22aa524cbae879a9adf2442d3ac81b313d76689ca5bf4eadf045c5d4aea5c1fe53adca324005177de_0
+2025-07-08 19:52:35,845 - semgrep.rule_match - DEBUG - match_key = ("app = express()\n express = require('express')\n...\n import {$CSRF} from 'csrf'\n...\n import {$CSRF} from 'csurf'\n...\n require('csrf')\n...\n require('csurf')\n...\n", PosixPath('production-server.js'), 'config..semgrep.vendored-rules.javascript.express.security.audit.express-check-csurf-middleware-usage') match_id = 5c5a3165e363f562c6a87c2f72711e89cad524dfbcbfe6e22aa524cbae879a9adf2442d3ac81b313d76689ca5bf4eadf045c5d4aea5c1fe53adca324005177de_0
+2025-07-08 19:52:35,847 - semgrep.core_runner - DEBUG - semgrep ran in 0:00:35.831145 on 214 files
+2025-07-08 19:52:35,848 - semgrep.core_runner - DEBUG - findings summary: 2 warning, 0 error, 5 info
+2025-07-08 19:52:35,851 - semgrep.app.auth - DEBUG - Getting API token from settings file
+2025-07-08 19:52:35,851 - semgrep.app.auth - DEBUG - No API token found in settings file
+2025-07-08 19:52:35,998 - semgrep.output - VERBOSE - 
+========================================
+Files skipped:
+========================================
+
+  Always skipped by Opengrep:
+
+   • <none>
+
+  Skipped by .gitignore:
+  (Disable by passing --no-git-ignore)
+
+   • <all files not listed by `git ls-files` were skipped>
+
+  Skipped by .semgrepignore:
+  - https://semgrep.dev/docs/ignoring-files-folders-code/#understand-semgrep-defaults
+
+   • <none>
+
+  Skipped by --include patterns:
+
+   • <none>
+
+  Skipped by --exclude patterns:
+
+   • <none>
+
+  Files skipped due to insufficient read permissions:
+
+   • <none>
+
+  Skipped by limiting to files smaller than 1000000 bytes:
+  (Adjust with the --max-target-bytes flag)
+
+   • attached_assets/1000033071_1751603802676.jpg
+   • attached_assets/EMS scope of practice_1750485746031.pdf
+   • attached_assets/EMT Protocol_1750483922864.pdf
+   • attached_assets/Emergency Medical Technician_ Patient Assessment Essentials_1750486383228.wav
+   • attached_assets/FLASHCARDS BODY SYSTEMS_1750488078938.docx
+   • attached_assets/FLASHCARDS BODY SYSTEMS_1750491746579.docx
+   • attached_assets/resp_1750488100268.docx
+   • attached_assets/resp_1750491746580.docx
+   • client/public/assets/shaun-photo.jpg
+
+  Partially analyzed due to parsing or internal Opengrep errors
+
+   • migration_package/tailwind.config.ts (1 lines skipped)
+   • tailwind.config.ts (1 lines skipped)
+
+2025-07-08 19:52:36,000 - semgrep.output - INFO - Some files were skipped or only partially analyzed.
+  Scan was limited to files tracked by git.
+  Partially scanned: 2 files only partially analyzed due to parsing or internal Opengrep errors
+  Scan skipped: 9 files larger than 1.0 MB
+  For a full list of skipped files, run opengrep with the --verbose flag.
+
+Ran 438 rules on 214 files: 7 findings.
+2025-07-08 19:52:36,000 - semgrep.app.version - DEBUG - Version cache does not exist
+2025-07-08 19:52:36,016 - semgrep.metrics - VERBOSE - Not sending pseudonymous metrics since metrics are configured to OFF and registry usage is False

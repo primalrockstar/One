@@ -1,0 +1,38 @@
+<svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4A90E2;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#2E7BB6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1E5F99;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E74C3C;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#C0392B;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Blue concentric circles (like your original) -->
+  <circle cx="40" cy="40" r="35" fill="none" stroke="url(#blueGrad)" stroke-width="2.5" opacity="0.6"/>
+  <circle cx="40" cy="40" r="28" fill="none" stroke="url(#blueGrad)" stroke-width="2" opacity="0.7"/>
+  <circle cx="40" cy="40" r="21" fill="none" stroke="url(#blueGrad)" stroke-width="2" opacity="0.8"/>
+  <circle cx="40" cy="40" r="18" fill="none" stroke="url(#blueGrad)" stroke-width="2.5"/>
+  
+  <!-- Red medical cross -->
+  <g transform="translate(40,40)">
+    <rect x="-2" y="-10" width="4" height="20" fill="url(#redGrad)" rx="1"/>
+    <rect x="-10" y="-2" width="20" height="4" fill="url(#redGrad)" rx="1"/>
+  </g>
+  
+  <!-- Flowing lines (like your original design) -->
+  <path d="M 80 25 Q 110 15 140 25 Q 170 35 200 25" fill="none" stroke="url(#blueGrad)" stroke-width="2" opacity="0.5"/>
+  <path d="M 80 55 Q 110 65 140 55 Q 170 45 200 55" fill="none" stroke="url(#blueGrad)" stroke-width="2" opacity="0.5"/>
+  
+  <!-- Arrow -->
+  <path d="M 210 35 L 230 40 L 210 45 Z" fill="url(#blueGrad)" opacity="0.7"/>
+  
+  <!-- Text: ProMedix -->
+  <text x="90" y="32" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="url(#blueGrad)">ProMedix</text>
+  
+  <!-- Text: EMS -->
+  <text x="90" y="55" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="url(#blueGrad)">EMS</text>
+</svg>

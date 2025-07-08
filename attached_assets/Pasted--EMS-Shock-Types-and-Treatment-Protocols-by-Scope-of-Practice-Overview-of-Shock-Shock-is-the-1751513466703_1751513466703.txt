@@ -1,0 +1,348 @@
+# EMS Shock Types and Treatment Protocols by Scope of Practice
+
+## Overview of Shock
+Shock is the widespread failure of the circulatory system to supply adequate oxygen and nourishment to the tissues and organs. Early recognition and treatment are critical to prevent progression to irreversible shock and death.
+
+## Classification of Shock Types
+
+There are mainly four broad categories of shock: distributive, hypovolemic, cardiogenic, and obstructive.
+
+---
+
+## 1. HYPOVOLEMIC SHOCK
+
+### Definition
+Hypovolemic shock is a life-threatening condition caused by a significant reduction in blood volume, which prevents the heart from pumping enough blood to meet the body's needs.
+
+### Causes
+- **Hemorrhagic**: Trauma, GI bleeding, surgical complications, ruptured aneurysm
+- **Non-hemorrhagic**: Severe dehydration, burns, excessive vomiting/diarrhea
+
+### Signs and Symptoms
+**Early (Compensated)**
+- Tachycardia
+- Normal to slightly decreased blood pressure
+- Pale, cool, clammy skin
+- Anxiety, restlessness
+- Thirst
+- Decreased urination
+
+**Late (Decompensated)**
+- Severe hypotension
+- Weak, thready pulse
+- Altered mental status
+- Mottled skin
+- Delayed capillary refill (>2 seconds)
+
+### Treatment by Scope
+
+#### EMT Scope
+- High-flow oxygen
+- Position patient supine with legs elevated (if no trauma)
+- Control external bleeding with direct pressure, pressure points, tourniquets
+- Keep patient warm
+- Rapid transport
+- Monitor vital signs
+
+#### AEMT Scope
+- All EMT interventions plus:
+- IV access with large-bore catheters (14-16 gauge)
+- Normal saline or Lactated Ringer's fluid bolus
+- Advanced airway management if needed
+
+#### Paramedic Scope
+- All AEMT interventions plus:
+- Multiple large-bore IV access
+- Aggressive fluid resuscitation (20ml/kg boluses, reassess)
+- Blood pressure support medications if needed
+- Advanced cardiac monitoring
+- Consider blood products coordination with hospital
+
+---
+
+## 2. CARDIOGENIC SHOCK
+
+### Definition
+Shock caused by the heart's inability to pump effectively, resulting in inadequate cardiac output.
+
+### Causes
+- Acute myocardial infarction
+- Severe heart failure
+- Cardiac arrhythmias
+- Valve emergencies
+- Cardiac tamponade
+
+### Signs and Symptoms
+- Hypotension
+- Tachycardia (may be bradycardic with certain causes)
+- Signs of heart failure (JVD, pulmonary edema, S3 gallop)
+- Cool, clammy skin
+- Altered mental status
+- Chest pain (if MI-related)
+- Shortness of breath
+
+### Treatment by Scope
+
+#### EMT Scope
+- High-flow oxygen
+- Position patient sitting up (if conscious) or supine (if unconscious)
+- Assist with prescribed nitroglycerin (if no contraindications)
+- Monitor vital signs
+- Rapid transport to cardiac center
+
+#### AEMT Scope
+- All EMT interventions plus:
+- IV access (avoid fluid overload)
+- 12-lead ECG acquisition and transmission
+- CPAP for pulmonary edema
+- Advanced airway if needed
+
+#### Paramedic Scope
+- All AEMT interventions plus:
+- Minimal IV fluids (avoid overload - contraindicated in most cases)
+- Vasopressor support (dopamine, norepinephrine)
+- Treatment of underlying arrhythmias
+- Advanced cardiac life support protocols
+- Consider balloon pump coordination
+
+**CRITICAL NOTE**: patients in cardiogenic shock should never be given IV fluids
+
+---
+
+## 3. DISTRIBUTIVE SHOCK
+
+### Subtypes
+The three subtypes are septic, anaphylactic/anaphylactoid, and neurogenic shock.
+
+## 3A. SEPTIC SHOCK
+
+### Definition
+Shock resulting from severe infection causing widespread vasodilation and increased capillary permeability.
+
+### Causes
+- Severe bacterial, viral, or fungal infections
+- Pneumonia, urinary tract infections, abdominal infections
+- Infected wounds
+
+### Signs and Symptoms
+**Early (Warm Shock)**
+- Fever or hypothermia
+- Tachycardia
+- Warm, flushed skin
+- Normal or slightly low blood pressure
+- Altered mental status
+
+**Late (Cold Shock)**
+- Severe hypotension
+- Cool, mottled skin
+- Weak pulse
+- Decreased urination
+
+### Treatment by Scope
+
+#### EMT Scope
+- High-flow oxygen
+- Keep patient warm
+- Monitor vital signs
+- Rapid transport
+
+#### AEMT Scope
+- All EMT interventions plus:
+- IV access
+- Normal saline fluid resuscitation
+- Advanced airway management
+
+#### Paramedic Scope
+- All AEMT interventions plus:
+- Aggressive fluid resuscitation (30ml/kg initial bolus)
+- Vasopressor support if hypotensive despite fluids
+- Consider antibiotic coordination with hospital
+- Advanced monitoring
+
+## 3B. ANAPHYLACTIC SHOCK
+
+### Definition
+Severe, life-threatening allergic reaction causing widespread vasodilation and increased vascular permeability.
+
+### Causes
+- Food allergens (nuts, shellfish, etc.)
+- Medications (antibiotics, NSAIDs)
+- Insect stings
+- Environmental allergens
+
+### Signs and Symptoms
+- Rapid onset (minutes to hours)
+- Urticaria (hives), angioedema
+- Respiratory distress, wheezing, stridor
+- Hypotension, tachycardia
+- Nausea, vomiting, diarrhea
+- Sense of impending doom
+
+### Treatment by Scope
+
+#### EMT Scope
+- Remove/avoid continued allergen exposure
+- High-flow oxygen
+- Epinephrine, an "Epi-Pen" is a 0.3mg dose of 1mg/ml epinephrine and is the most common EMS treatment for anaphylaxis
+- Assist with patient's auto-injector or administer IM epinephrine
+- Rapid transport
+
+#### AEMT Scope
+- All EMT interventions plus:
+- IV access
+- Fluid resuscitation if hypotensive
+- Albuterol nebulizer for bronchospasm
+- Diphenhydramine (Benadryl) IV/IM
+
+#### Paramedic Scope
+- All AEMT interventions plus:
+- Epinephrine IV push for severe cases (0.1mg IV)
+- Repeated epinephrine doses as needed
+- Methylprednisolone (Solu-Medrol)
+- Vasopressor support
+- Advanced airway management (prepare for surgical airway)
+
+## 3C. NEUROGENIC SHOCK
+
+### Definition
+Shock caused by loss of sympathetic nervous system control, typically from spinal cord injury.
+
+### Causes
+- Spinal cord injury (typically C5 and above)
+- Spinal anesthesia complications
+- Severe brain injury
+
+### Signs and Symptoms
+- Hypotension with bradycardia (classic triad with spinal injury)
+- Warm, dry skin below level of injury
+- Hypothermia
+- Neurological deficits
+- Priapism (in males)
+
+### Treatment by Scope
+
+#### EMT Scope
+- Spinal immobilization
+- High-flow oxygen
+- Keep patient warm
+- Monitor vital signs
+- Rapid transport
+
+#### AEMT Scope
+- All EMT interventions plus:
+- IV access
+- Cautious fluid resuscitation
+- Advanced airway management if needed
+
+#### Paramedic Scope
+- All AEMT interventions plus:
+- Fluid resuscitation (carefully monitored)
+- Vasopressor support (dopamine, norepinephrine)
+- Atropine for severe bradycardia
+- Maintain spinal precautions
+
+---
+
+## 4. OBSTRUCTIVE SHOCK
+
+### Definition
+Shock caused by physical obstruction of blood flow, preventing adequate venous return or cardiac output.
+
+### Causes
+- Tension pneumothorax
+- Cardiac tamponade
+- Massive pulmonary embolism
+- Severe asthma/COPD exacerbation
+
+### Signs and Symptoms
+**Tension Pneumothorax**
+- Severe respiratory distress
+- Absent breath sounds on affected side
+- Tracheal deviation (late sign)
+- Hypotension, tachycardia
+- JVD
+
+**Cardiac Tamponade**
+- Beck's triad: JVD, muffled heart sounds, hypotension
+- Pulsus paradoxus
+- Tachycardia
+
+### Treatment by Scope
+
+#### EMT Scope
+- High-flow oxygen
+- Position of comfort for breathing
+- Rapid transport
+- Monitor vital signs
+
+#### AEMT Scope
+- All EMT interventions plus:
+- IV access
+- Advanced airway management
+- CPAP if appropriate
+
+#### Paramedic Scope
+- All AEMT interventions plus:
+- Needle decompression for tension pneumothorax
+- Pericardiocentesis for cardiac tamponade (if trained/authorized)
+- Fluid resuscitation as appropriate
+- Advanced cardiac monitoring
+
+---
+
+## GENERAL SHOCK MANAGEMENT PRINCIPLES
+
+### Universal EMS Interventions (All Levels)
+1. **Airway Management**: Ensure patent airway
+2. **Breathing Support**: High-flow oxygen, assist ventilations if needed
+3. **Circulation**: Control bleeding, establish IV access per scope
+4. **Disability**: Assess neurological status
+5. **Exposure**: Prevent heat loss, examine for injuries
+
+### Fluid Resuscitation Guidelines
+- The majority of patients in shock require IV fluids to slow or prevent them from progressing to decompensated or irreversible shock. Septic shock and hypovolemic shock always require IV fluids. Neurogenic and anaphylactic shock sometimes require them
+- **Hypovolemic/Septic**: Aggressive fluid resuscitation
+- **Cardiogenic**: Avoid fluids (contraindicated)
+- **Anaphylactic/Neurogenic**: Cautious fluid administration
+- **Obstructive**: Variable depending on cause
+
+### Transport Considerations
+- Load and go vs. stay and play depends on:
+  - Type of shock
+  - Response to initial treatment
+  - Transport time to appropriate facility
+  - Available interventions
+- Consider helicopter transport for:
+  - Remote locations
+  - Trauma centers >30 minutes away
+  - Need for specialized care (cardiac catheterization, trauma surgery)
+
+### Documentation Requirements
+- Time of onset
+- Initial vital signs and mental status
+- Interventions performed and patient response
+- Ongoing assessment findings
+- Reason for transport destination choice
+
+---
+
+## KEY REMINDERS BY SCOPE
+
+### EMT Priorities
+- Recognize shock early
+- Provide basic supportive care
+- Rapid transport to appropriate facility
+- Assist with patient medications per protocols
+
+### AEMT Priorities
+- Establish vascular access
+- Provide appropriate fluid therapy
+- Advanced airway management
+- Medication administration per protocols
+
+### Paramedic Priorities
+- Comprehensive assessment and treatment
+- Vasopressor support when indicated
+- Advanced interventions (needle decompression, etc.)
+- Destination selection based on patient needs
+- Hospital communication and preparation

@@ -1,0 +1,175 @@
+EMT Patient Assessment Study Guide: Medical & Trauma
+1. Scene Size-Up
+BSI (Body Substance Isolation): Ensure gloves, mask, eye protection, gown as needed.
+
+Scene Safety: Look for hazards (traffic, fire, violence, chemicals, etc.).
+
+Mechanism of Injury (MOI) / Nature of Illness (NOI):
+
+Trauma: Consider forces involved (e.g., car crash, fall, gunshot).
+
+Medical: Identify possible causes (e.g., chest pain, difficulty breathing, altered mental status).
+
+Number of Patients: Determine if additional resources are needed (more ambulances, fire department, police).
+
+Request Additional Help if Needed: ALS, fire, hazmat, etc.
+
+2. Primary Survey (ABCDE Approach)
+A – Airway
+Assess: Is the airway open? Listen for sounds (snoring, gurgling, stridor).
+
+Interventions:
+
+Medical: Head-tilt chin-lift (if no trauma), suction if needed.
+
+Trauma: Jaw-thrust if spinal injury suspected.
+
+Consider adjuncts (OPA/NPA) if patient is unresponsive.
+
+B – Breathing
+Assess: Rate, depth, effort (labored? retractions? accessory muscle use?).
+
+Listen: Breath sounds (equal bilaterally? wheezing, crackles, absent sounds?).
+
+Interventions:
+
+Assist ventilations with BVM if inadequate breathing.
+
+Administer oxygen if hypoxic (SpO₂ < 94%).
+
+Seal open chest wounds (trauma).
+
+C – Circulation
+Assess:
+
+Pulse (rate, rhythm, strength).
+
+Skin (color, temperature, moisture – pale, cool, clammy?).
+
+Major bleeding (control with direct pressure, tourniquet if severe).
+
+Interventions:
+
+Control hemorrhage.
+
+Treat for shock (keep warm, elevate legs if no trauma, IV fluids per protocol).
+
+D – Disability (Neurological Status)
+Assess: AVPU or Glasgow Coma Scale (GCS).
+
+Alert
+
+Verbal response
+
+Painful response
+
+Unresponsive
+
+Pupils: PEARRL (Pupils Equal And Round, Reactive to Light).
+
+Interventions: Consider glucose check, spinal immobilization if trauma.
+
+E – Exposure / Environment
+Assess: Remove clothing as needed to check for injuries (trauma) or medical signs (rash, swelling).
+
+Interventions: Prevent hypothermia (cover patient after exam).
+
+3. History Taking (SAMPLE & OPQRST)
+SAMPLE History (Medical & Trauma)
+Symptoms
+
+Allergies
+
+Medications
+
+Past medical history
+
+Last oral intake
+
+Events leading to incident
+
+OPQRST (Pain Assessment)
+Onset
+
+Provocation/Palliation
+
+Quality
+
+Radiation
+
+Severity (1-10 scale)
+
+Time
+
+4. Secondary Assessment
+Medical Patients (Focused Exam)
+Vitals: BP, HR, RR, SpO₂, blood glucose if indicated.
+
+Head-to-Toe: Based on chief complaint (e.g., lung sounds for respiratory distress, abdominal tenderness for pain).
+
+Special Considerations: Stroke (FAST), cardiac (chest pain), diabetic emergencies, seizures.
+
+Trauma Patients (Full Body Exam)
+DCAP-BTLS:
+
+Deformities
+
+Contusions
+
+Abrasions
+
+Punctures/Penetrations
+
+Burns
+
+Tenderness
+
+Lacerations
+
+Swelling
+
+Check:
+
+Head: Scalp wounds, Battle’s sign, raccoon eyes.
+
+Neck: JVD, tracheal deviation, crepitus.
+
+Chest: Paradoxical movement, flail segment.
+
+Abdomen: Distension, rigidity, guarding.
+
+Pelvis: Stability (do not compress if fracture suspected).
+
+Extremities: PMS (Pulse, Motor, Sensory).
+
+Back: Log roll if spinal injury suspected.
+
+5. Reassessment
+Repeat Primary Survey if condition changes.
+
+Monitor Vitals every 5 min (unstable) or 15 min (stable).
+
+Check Interventions: Oxygen, bleeding control, splints.
+
+Document Findings: Changes in condition, treatments given.
+
+Key Differences: Medical vs. Trauma Assessment
+Factor	Medical	Trauma
+Focus	History & symptoms	Mechanism of Injury (MOI)
+Airway	Head-tilt chin-lift (if no trauma)	Jaw-thrust (if spinal concern)
+Priority	Underlying condition	Life-threatening bleeding/injuries
+Exam	Focused (based on complaint)	Full-body (DCAP-BTLS)
+Common Pitfalls to Avoid
+Missing hidden bleeding (check under clothes, back).
+
+Not reassessing after interventions (e.g., after giving albuterol, check breathing again).
+
+Overlooking spinal precautions in trauma patients.
+
+Failing to consider environmental factors (hypothermia, heat stroke).
+
+Final Tip:
+"Treat the patient, not the monitor." Vitals help, but patient presentation is key!
+
+Good luck with your studies! 🚑💨
+

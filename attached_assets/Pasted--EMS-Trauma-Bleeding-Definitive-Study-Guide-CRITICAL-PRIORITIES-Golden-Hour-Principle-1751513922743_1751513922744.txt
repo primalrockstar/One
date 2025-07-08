@@ -1,0 +1,291 @@
+# EMS Trauma & Bleeding - Definitive Study Guide
+
+## 🚨 CRITICAL PRIORITIES (Golden Hour Principles)
+
+### **Scene Time Rule: ≤10 minutes for critical patients**
+1. **Safety First**: You → Crew → Patient
+2. **Hemorrhage Control** = #1 Priority
+3. **Airway/Spinal** = #2 Priority
+4. **Rapid Transport** = Life-saving
+
+---
+
+## 🩸 BLEEDING CONTROL HIERARCHY
+
+### **External Bleeding Control Methods (In Order)**
+1. **Direct Pressure** (Most effective - 5+ minutes)
+2. **Pressure Dressing** (Maintain distal pulse)
+3. **Tourniquet** (Above bleeding level - extremities only)
+4. **Hemostatic Dressing/Wound Packing** (Large wounds)
+5. **Junctional Tourniquets** (Groin/axilla)
+6. **Air Splints** (Entire extremity injuries)
+
+### **Bleeding Types & Characteristics**
+| Type | Color | Flow Pattern | Clotting | Control Difficulty |
+|------|-------|--------------|----------|-------------------|
+| **Arterial** | Bright Red | Spurts with pulse | Poor | Difficult |
+| **Venous** | Dark Red | Steady flow | Good | Easy |
+| **Capillary** | Dark Red | Slow ooze | Good | Easy |
+
+---
+
+## 🚗 TRAUMA MECHANISMS & INJURY PATTERNS
+
+### **Motor Vehicle Crashes (3 Collisions)**
+1. **Vehicle vs Object** → Vehicle damage assessment
+2. **Passenger vs Interior** → Fractures, head trauma
+3. **Organs vs Body Structures** → Internal injuries (most dangerous)
+
+### **Crash-Specific Injury Patterns**
+| Crash Type | Primary Injuries | Key Assessment |
+|------------|------------------|----------------|
+| **Frontal** | Lower extremity fractures, ribs, head trauma | Restraint systems, airbag deployment |
+| **Rear-End** | Whiplash, brain acceleration injury | Headrest position, lap belt injuries |
+| **Lateral** | Chest/abdominal, pelvis, ribs | Most lethal - intrusion assessment |
+| **Rollover** | Ejection risk, severe multi-trauma | Restraint use critical |
+| **Rotational** | Spin-related impacts | Secondary collision risks |
+
+### **High-Risk MOI Indicators**
+- Death of occupant
+- Severe vehicle deformity/intrusion
+- Ejection from vehicle
+- Falls >20 feet
+- Pedestrian thrown/dragged
+
+---
+
+## 🎯 PENETRATING TRAUMA
+
+### **Velocity Classifications**
+| Velocity | Mechanism | Damage Pattern |
+|----------|-----------|----------------|
+| **Low** | Knives, ice picks | Sharp edge damage along path |
+| **Medium/High** | Bullets | Trajectory, fragmentation, cavitation |
+
+### **Cavitation Types**
+- **Temporary**: Tissue stretching from pressure
+- **Permanent**: Lasting damage along bullet path
+- **Exit wounds**: Often larger than entrance
+
+---
+
+## 💥 BLAST INJURIES (4 Mechanisms)
+
+1. **Primary**: Pressure wave → Ear/lung/GI damage
+2. **Secondary**: Flying debris → Penetrating wounds
+3. **Tertiary**: Body thrown → Fractures, head trauma  
+4. **Quaternary**: Burns, toxic gases, crush injuries
+
+**Most Vulnerable**: Air-containing organs (ears, lungs, GI tract)
+
+---
+
+## 🔍 INTERNAL BLEEDING RECOGNITION
+
+### **Causes**
+**Traumatic**: Liver laceration, spleen rupture, pelvic fractures
+**Non-Traumatic**: Ulcers, aneurysms, ectopic pregnancy
+
+### **Signs & Symptoms**
+**Early Signs**:
+- Pain (most common)
+- Swelling/distension
+- Hematoma/bruising
+- Bleeding from body openings
+
+**Late Signs (Shock)**:
+- Tachycardia
+- Weak pulse
+- Cool, clammy skin
+- Altered mental status
+- Decreased BP
+
+### **Body Opening Bleeding Indicators**
+- **Hematemesis**: Vomiting blood
+- **Melena**: Black, tarry stool
+- **Hematuria**: Blood in urine
+- **Hemoptysis**: Coughing blood
+
+---
+
+## 🩺 PATIENT ASSESSMENT PROTOCOL
+
+### **Primary Assessment (ABCDE)**
+1. **Airway**: Patent, spinal protection
+2. **Breathing**: High-flow O₂, ventilation support
+3. **Circulation**: Control bleeding, assess pulse/skin
+4. **Disability**: Neurologic function
+5. **Exposure**: Identify injuries, prevent hypothermia
+
+### **Rapid Transport Criteria**
+- Dangerous MOI
+- Decreased LOC
+- ABC threats
+- Signs of shock
+- Uncontrolled bleeding
+- Extremes of age
+
+### **Vital Sign Changes in Blood Loss**
+- ↑ Heart rate
+- ↑ Respiratory rate  
+- ↓ Blood pressure
+- ↓ Pulse quality
+- Cool, clammy skin
+
+---
+
+## 🏥 TRAUMA CENTER LEVELS
+
+| Level | Capabilities |
+|-------|-------------|
+| **Level I** | Complete trauma care, most resources |
+| **Level II** | Initial definitive care |
+| **Level III** | Assessment, resuscitation, stabilization |
+| **Level IV** | Advanced trauma life support |
+
+### **Air Medical Criteria**
+- Distance >20-25 miles to trauma center
+- Extended extrication time
+- No ALS ground available
+- Traffic/hospital delays
+- Mass casualty event
+
+---
+
+## 🧠 BODY REGION INJURY PATTERNS
+
+### **Head Injuries**
+- Frequent neuro exams
+- Hidden brain injury risk
+- Bleeding/swelling = life-threatening
+
+### **Neck/Throat**
+- Airway compromise risk
+- DCAP-BTLS assessment
+- JVD, tracheal deviation
+- Cartilage fracture potential
+
+### **Chest Injuries**
+- Broken ribs → breathing compromise
+- Heart bruising → arrhythmias
+- Vessel tears → massive bleeding
+- Pneumothorax/hemothorax
+
+### **Abdominal Injuries**
+- **Solid organs** (liver, spleen) → bleeding
+- **Hollow organs** (stomach, intestines) → infection
+- High blood flow = rapid deterioration
+
+---
+
+## ⚡ SPECIAL CONSIDERATIONS
+
+### **Hemophilia Patients**
+- Lack clotting factors
+- All injuries potentially serious
+- Immediate transport required
+- Spontaneous bleeding possible
+
+### **Tourniquet Application**
+- **Above** bleeding level
+- **Avoid** joints
+- **Extremity** bleeding only
+- **Never** for closed injuries
+- **Document** application time
+
+### **Epistaxis (Nosebleeds)**
+- Pinch nostrils for septal bleeding
+- Head injury bleeding = skull fracture risk
+- Don't apply excessive pressure
+- Forward positioning prevents aspiration
+
+---
+
+## 📋 DOCUMENTATION ESSENTIALS
+
+### **Critical Information to Report**
+- MOI details
+- Blood loss estimation
+- Rate of bleeding
+- Interventions performed
+- Patient response
+- Vital sign trends
+- Transport decisions
+
+### **Communication Priorities**
+- Estimated blood loss
+- Bleeding control methods used
+- Patient stability
+- ETA and receiving facility needs
+
+---
+
+## 🎯 KEY EXAM POINTS & MNEMONICS
+
+### **DCAP-BTLS Assessment**
+- **D**eformities
+- **C**ontusions  
+- **A**brasions
+- **P**unctures/Penetrations
+- **B**urns
+- **T**enderness
+- **L**acerations
+- **S**welling
+
+### **SAMPLE History**
+- **S**igns/Symptoms
+- **A**llergies
+- **M**edications (especially blood thinners)
+- **P**ast medical history
+- **L**ast oral intake
+- **E**vents leading to injury
+
+### **AVPU Scale**
+- **A**lert
+- **V**erbal response
+- **P**ainful response
+- **U**nresponsive
+
+---
+
+## ⏰ CRITICAL TIME INTERVALS
+
+- **Scene time**: <10 minutes critical patients
+- **Pressure application**: Minimum 5 minutes
+- **Reassessment**: Every 5 min (unstable), 15 min (stable)
+- **Golden hour**: Definitive care window
+- **Clotting time**: ~10 minutes normal response
+
+---
+
+## 🚨 CONTRAINDICATIONS & WARNINGS
+
+### **Never Do**
+- Remove impaled objects
+- Use tourniquets on closed injuries
+- Apply excessive pressure to head injury bleeding
+- Delay transport for complete assessment
+- Remove successful pressure dressings
+
+### **Always Remember**
+- Standard precautions (PPE)
+- Maintain body temperature
+- Continuous monitoring
+- Document everything
+- Communicate early and often
+
+---
+
+## 💡 CLINICAL PEARLS
+
+1. **Energy cannot be destroyed, only transferred** - always assess for energy transfer patterns
+2. **20% blood loss** = body's tolerance limit (~2 pints)
+3. **Rapid bleeding** can cause shock even with <20% loss
+4. **Internal bleeding** often more dangerous than obvious external
+5. **Capillary refill >2 seconds** in children = significant finding
+6. **Target/halo stain** on dressing = possible CSF leak
+7. **Rigid, distended abdomen** = internal bleeding until proven otherwise
+
+---
+
+*Remember: When in doubt, treat for the worst-case scenario. It's better to over-treat than under-treat in trauma situations.*

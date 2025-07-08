@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" fill="#dc2626" rx="24"/>
+  <g fill="white" transform="translate(32, 32)">
+    <!-- Medical Cross -->
+    <rect x="52" y="16" width="24" height="96" rx="2"/>
+    <rect x="16" y="52" width="96" height="24" rx="2"/>
+    <!-- Stethoscope -->
+    <path d="M40 100 Q40 110 50 110 Q60 110 60 100 L60 95 Q60 90 55 90 L45 90 Q40 90 40 95 Z" stroke="white" stroke-width="2" fill="none"/>
+    <circle cx="55" cy="120" r="8" fill="white"/>
+  </g>
+</svg>

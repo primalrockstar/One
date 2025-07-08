@@ -1,0 +1,122 @@
+# EMS Training Platform Enhancement - Replit Agent Instructions
+
+## Project Overview
+Enhance my existing EMS Training Platform with two critical features that will make it essential for working EMTs, AEMTs, and Paramedics. The platform currently has protocols, drug references, calculators, and training modules.
+
+## Feature 1: Voice-to-Text Documentation System
+
+### Requirements:
+- **Hands-free patient assessment dictation** using Web Speech API
+- **Medical terminology optimization** - Train recognition for EMS-specific terms (vitals, medications, procedures)
+- **Real-time transcription display** with edit capabilities
+- **Template-based documentation** - Pre-structured formats for different call types:
+  - Chest pain assessment
+  - Trauma evaluation
+  - Medical emergency
+  - Pediatric calls
+- **Voice commands for navigation** - "Start chest pain protocol", "Calculate drug dose", etc.
+- **Export functionality** - Save transcriptions as text files or copy to clipboard
+
+### Technical Implementation:
+- Use JavaScript Web Speech API (`webkitSpeechRecognition` or `SpeechRecognition`)
+- Implement continuous listening with start/stop controls
+- Add noise filtering and confidence scoring
+- Create medical term dictionary for better accuracy
+- Mobile-responsive design for ambulance use
+
+## Feature 2: Smart Camera Integration with Photo Documentation
+
+### Requirements:
+- **Medication verification** - Take photos of drug vials/packages for verification
+- **Wound/injury documentation** - Photo capture with timestamp and GPS coordinates
+- **ECG strip capture** - Photograph monitor displays for record keeping
+- **Equipment inspection photos** - Document equipment checks with timestamps
+- **Secure photo storage** - Local storage with optional cloud backup
+- **Photo annotation tools** - Add text notes, arrows, measurements to photos
+- **HIPAA-compliant features** - Automatic blur/redaction options for patient privacy
+
+### Technical Implementation:
+- Use JavaScript `getUserMedia()` API for camera access
+- Implement photo capture with HTML5 Canvas
+- Add photo editing tools (crop, rotate, annotate)
+- Include EXIF data capture (timestamp, location if permitted)
+- Local storage using IndexedDB for offline capability
+- Image compression for efficient storage
+
+## Integration Requirements:
+
+### User Interface:
+- **Quick access buttons** on main dashboard for both features
+- **Emergency mode** - Large buttons, high contrast for use during calls
+- **One-handed operation** - Design for single-hand use in ambulance
+- **Dark mode compatibility** - Red-light mode for night vision preservation
+
+### Data Management:
+- **Offline-first approach** - All features work without internet
+- **Auto-sync capabilities** - Upload data when connection available
+- **Export options** - Generate reports combining voice notes and photos
+- **Search functionality** - Find documentation by date, call type, or keywords
+
+### Security & Privacy:
+- **No patient identifiers** - System should not store names or personal info
+- **Local encryption** - Encrypt stored data on device
+- **Clear data options** - Easy way to wipe all stored information
+- **Privacy compliance** - HIPAA-aware design choices
+
+## Technical Specifications:
+
+### Browser Compatibility:
+- Primary: Chrome, Safari, Edge (latest versions)
+- Mobile: Android Chrome, iOS Safari
+- Offline capability through Service Workers
+- PWA-ready for app-like experience
+
+### Performance Requirements:
+- Voice recognition latency < 2 seconds
+- Photo capture/processing < 3 seconds
+- Offline storage up to 500MB
+- Fast loading on mobile networks
+
+### File Structure:
+```
+/voice-module/
+  - speech-recognition.js
+  - medical-dictionary.js
+  - transcription-ui.js
+  - voice-commands.js
+
+/camera-module/
+  - camera-access.js
+  - photo-capture.js
+  - image-processing.js
+  - annotation-tools.js
+  - storage-manager.js
+
+/shared/
+  - offline-manager.js
+  - sync-service.js
+  - encryption-utils.js
+```
+
+## Success Criteria:
+1. **Voice system accurately transcribes** medical terminology at 85%+ accuracy
+2. **Camera system captures clear photos** in various lighting conditions
+3. **Both features work offline** without internet connection
+4. **Mobile-optimized interface** works smoothly on phones/tablets
+5. **Data export functions** properly for documentation needs
+
+## Additional Instructions:
+- **Test thoroughly** on mobile devices (this is primarily a mobile-use app)
+- **Include error handling** for microphone/camera permission issues
+- **Add loading indicators** and user feedback for all operations
+- **Implement graceful degradation** if APIs aren't supported
+- **Create demo data/examples** to show functionality
+- **Write clear documentation** for end users
+
+## Priority Order:
+1. Voice-to-text with basic medical terminology
+2. Camera access and photo capture
+3. Offline storage and sync
+4. Advanced features (annotation, templates, etc.)
+
+Build this as a robust, production-ready enhancement to my existing EMS platform that EMTs and Paramedics will find indispensable during actual emergency calls.

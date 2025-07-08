@@ -1,0 +1,111 @@
+🚑 EMT (Basic) Medications
+(Limited to oral, inhaled, IM, and auto-injectors)
+
+1. Aspirin (ACS)
+Dose: 324 mg PO (chewed).
+
+Contraindications: Allergy, active GI bleed.
+
+2. Oxygen
+Dose: 2–15 L/min (NC/NRB).
+
+Contraindications: COPD with CO2 retention (use titrated O2).
+
+3. Epinephrine 1:1,000 (Anaphylaxis)
+Dose: 0.3 mg IM (auto-injector or vial).
+
+Contraindications: None in anaphylaxis.
+
+4. Naloxone (Opioid OD)
+Dose: 4 mg IN or 0.4 mg IM/IV (if allowed).
+
+Contraindications: None in overdose.
+
+5. Albuterol (Asthma/COPD)
+Dose: 2.5 mg nebulized.
+
+Contraindications: Tachycardia (use with caution).
+
+6. Oral Glucose (Hypoglycemia)
+Dose: 15–25 g PO (paste/gel).
+
+Contraindications: Unconsciousness (use glucagon).
+
+7. Activated Charcoal (Poisoning) (Some states)
+Dose: 25–50 g PO.
+
+Contraindications: Altered LOC, caustic ingestion.
+
+⚡ AEMT (Advanced) Medications
+(Adds IV therapy, additional IM/IN drugs)
+
+8. Nitroglycerin (ACS/CHF)
+Dose: 0.4 mg SL/spray q5min (max 3 doses).
+
+Contraindications: SBP <90, ED medications (e.g., Viagra).
+
+9. Glucagon (Hypoglycemia)
+Dose: 1 mg IM.
+
+Contraindications: None (if no IV access).
+
+10. Diphenhydramine (Allergic Reactions)
+Dose: 25–50 mg IV/IM.
+
+Contraindications: Acute asthma (can thicken secretions).
+
+11. Dextrose 50% (D50) (Hypoglycemia)
+Dose: 25 g IV (pediatrics: D25 2–4 mL/kg).
+
+Contraindications: No IV access (use glucagon).
+
+12. Ipratropium (COPD)
+Dose: 0.5 mg nebulized (with albuterol).
+
+Contraindications: Soy/peanut allergy (rare).
+
+💊 PARAMEDIC Medications
+(Full ACLS, IV/IO, cardiac, and advanced pain control)
+
+13. Fentanyl (Pain)
+Dose: 1–2 mcg/kg IV/IN (max 100 mcg/dose).
+
+Contraindications: Severe respiratory depression.
+
+14. Morphine (Pain/ACS)
+Dose: 2–5 mg IV q5–10min (max 10 mg).
+
+Contraindications: Hypotension, head injury.
+
+15. Ketamine (Pain/Sedation)
+Dose:
+
+Pain: 0.1–0.3 mg/kg IV.
+
+Sedation: 1–2 mg/kg IV (RSI).
+
+Contraindications: Schizophrenia, uncontrolled HTN.
+
+16. Amiodarone (VF/VT)
+Dose: 300 mg IV (repeat 150 mg if refractory).
+
+Contraindications: Bradycardia, Torsades.
+
+17. Dopamine (Shock)
+Dose: 5–20 mcg/kg/min IV drip.
+
+Contraindications: Tachyarrhythmias.
+
+18. RSI Medications (e.g., Succinylcholine, Etomidate)
+Dose: Protocol-specific (e.g., succinylcholine 1.5 mg/kg IV).
+
+Contraindications: Hyperkalemia, MH risk (succinylcholine).
+
+📌 Key Differences by Certification
+Drug	EMT	AEMT	Paramedic
+Aspirin	✅	✅	✅
+Epinephrine IM	✅	✅	✅
+Nitroglycerin	❌	✅	✅
+Fentanyl	❌	❌	✅
+Amiodarone	❌	❌	✅
+RSI Drugs	❌	❌	✅

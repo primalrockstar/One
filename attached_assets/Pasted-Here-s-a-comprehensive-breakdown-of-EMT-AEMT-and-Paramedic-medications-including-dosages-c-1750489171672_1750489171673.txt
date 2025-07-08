@@ -1,0 +1,146 @@
+Here’s a **comprehensive breakdown** of EMT, AEMT, and Paramedic medications, including **dosages, contraindications, indications, and the "Five Rights" of medication administration** (Right Patient, Right Drug, Right Dose, Right Route, Right Time).  
+
+---
+
+## **EMT-Basic (EMT) Medications**  
+
+### **1. Oxygen (O₂)**  
+- **Indications**: Hypoxia, respiratory distress, cardiac arrest, shock, carbon monoxide poisoning.  
+- **Dosage**:  
+  - **Nasal Cannula**: 1–6 L/min (24–44% FiO₂).  
+  - **Non-Rebreather Mask (NRB)**: 10–15 L/min (~90% FiO₂).  
+- **Contraindications**:  
+  - COPD patients (risk of CO₂ retention; use caution).  
+- **Five Rights**:  
+  - **Right Patient**: Hypoxic or in respiratory distress.  
+  - **Right Drug**: Medical-grade oxygen.  
+  - **Right Dose**: Adjust based on SpO₂ (target ≥94%).  
+  - **Right Route**: Inhalation via mask or cannula.  
+  - **Right Time**: Administer immediately if hypoxia is suspected.  
+
+### **2. Oral Glucose (Dextrose Gel)**  
+- **Indications**: Hypoglycemia (blood glucose <70 mg/dL with altered mental status).  
+- **Dosage**:  
+  - **15–20g** (1 tube of oral gel or 4oz juice if conscious).  
+- **Contraindications**:  
+  - Unconscious/seizing (use IV dextrose or glucagon).  
+  - Unable to swallow (risk of aspiration).  
+- **Five Rights**:  
+  - **Right Patient**: Confirmed hypoglycemia, conscious, able to swallow.  
+  - **Right Drug**: Oral glucose gel.  
+  - **Right Dose**: 15–20g.  
+  - **Right Route**: Oral (buccal absorption).  
+  - **Right Time**: Immediately after confirming hypoglycemia.  
+
+### **3. Aspirin (Chewable)**  
+- **Indications**: Suspected acute coronary syndrome (ACS).  
+- **Dosage**: **324mg (4x 81mg tabs)** chewed.  
+- **Contraindications**:  
+  - Allergy to aspirin.  
+  - Active bleeding (e.g., GI bleed, hemorrhagic stroke).  
+- **Five Rights**:  
+  - **Right Patient**: Chest pain suggestive of MI (e.g., pressure, radiation to arm/jaw).  
+  - **Right Drug**: Non-enteric coated aspirin.  
+  - **Right Dose**: 324mg.  
+  - **Right Route**: Oral (chewed for faster absorption).  
+  - **Right Time**: ASAP after onset of symptoms.  
+
+### **4. Epinephrine Auto-Injector (EpiPen®)**  
+- **Indications**: Anaphylaxis, severe allergic reaction (stridor, wheezing, hypotension).  
+- **Dosage**:  
+  - **Adult**: **0.3mg IM** (thigh).  
+  - **Pediatric**: **0.15mg IM** (thigh).  
+- **Contraindications**:  
+  - None in true anaphylaxis (benefits outweigh risks).  
+- **Five Rights**:  
+  - **Right Patient**: Signs of anaphylaxis (hives, swelling, difficulty breathing).  
+  - **Right Drug**: Epinephrine 1:1,000.  
+  - **Right Dose**: 0.3mg (adult) or 0.15mg (child).  
+  - **Right Route**: IM (anterolateral thigh).  
+  - **Right Time**: Immediately upon recognition.  
+
+### **5. Naloxone (Narcan®)**  
+- **Indications**: Opioid overdose (respiratory depression, pinpoint pupils, unresponsiveness).  
+- **Dosage**:  
+  - **Intranasal (IN)**: 2–4mg (1 spray per nostril).  
+  - **IM**: 0.4–2mg.  
+- **Contraindications**:  
+  - None in suspected opioid overdose.  
+- **Five Rights**:  
+  - **Right Patient**: Unresponsive, hypoventilating, suspected opioid use.  
+  - **Right Drug**: Naloxone.  
+  - **Right Dose**: 2–4mg IN or 0.4–2mg IM.  
+  - **Right Route**: IN preferred if available.  
+  - **Right Time**: Immediately if respiratory rate <12.  
+
+---
+
+## **AEMT Medications (Expanded Scope)**  
+
+### **6. Albuterol (Ventolin®) – Nebulized**  
+- **Indications**: Asthma, COPD exacerbation (wheezing, dyspnea).  
+- **Dosage**: **2.5mg in 3mL saline** via nebulizer.  
+- **Contraindications**:  
+  - Tachycardia (use with caution).  
+  - Allergy to albuterol.  
+- **Five Rights**:  
+  - **Right Patient**: Wheezing, SOB, known asthma/COPD.  
+  - **Right Drug**: Albuterol sulfate.  
+  - **Right Dose**: 2.5mg.  
+  - **Right Route**: Nebulized.  
+  - **Right Time**: ASAP for bronchospasm.  
+
+### **7. Nitroglycerin (NTG) – Sublingual**  
+- **Indications**: Angina/ACS (chest pain with pressure).  
+- **Dosage**: **0.4mg SL** every 5 min (max 3 doses).  
+- **Contraindications**:  
+  - SBP <90 mmHg.  
+  - Recent PDE-5 inhibitor use (Viagra®, Cialis®).  
+  - Right-sided MI (risk of hypotension).  
+- **Five Rights**:  
+  - **Right Patient**: Chest pain + BP stable.  
+  - **Right Drug**: Nitroglycerin spray/tablet.  
+  - **Right Dose**: 0.4mg.  
+  - **Right Route**: Sublingual.  
+  - **Right Time**: Every 5 min if pain persists.  
+
+---
+
+## **Paramedic Medications (Advanced Scope)**  
+
+### **8. Fentanyl (Sublimaze®)**  
+- **Indications**: Severe pain (trauma, burns, MI).  
+- **Dosage**: **1–2 mcg/kg IV/IO/IM/IN** (max 100mcg initially).  
+- **Contraindications**:  
+  - Allergy.  
+  - Severe respiratory depression (unless ventilated).  
+- **Five Rights**:  
+  - **Right Patient**: Severe pain (e.g., fractures, burns).  
+  - **Right Drug**: Fentanyl citrate.  
+  - **Right Dose**: 50–100mcg (titrate to effect).  
+  - **Right Route**: IV preferred (fastest onset).  
+  - **Right Time**: After assessing pain level.  
+
+### **9. Amiodarone (Cordarone®)**  
+- **Indications**: Ventricular fibrillation (VF), unstable VT.  
+- **Dosage**:  
+  - **Cardiac Arrest**: **300mg IV push**.  
+  - **Perfusing VT**: **150mg over 10 min**.  
+- **Contraindications**:  
+  - Bradycardia, 2nd/3rd-degree heart block.  
+- **Five Rights**:  
+  - **Right Patient**: VF/pulseless VT (after epinephrine).  
+  - **Right Drug**: Amiodarone.  
+  - **Right Dose**: 300mg (arrest).  
+  - **Right Route**: IV/IO.  
+  - **Right Time**: After 2nd shock in cardiac arrest.  
+
+---
+
+### **Key Takeaways**  
+- **EMTs** focus on basic life-saving meds (O₂, glucose, aspirin, epi, naloxone).  
+- **AEMTs** add IV/IO meds (albuterol, nitroglycerin, dextrose).  
+- **Paramedics** handle advanced cardiac, pain, and sedation drugs (fentanyl, amiodarone, RSI meds).  
+- **Always verify the Five Rights** before administering any drug.  
+
+Would you like a **quick-reference cheat sheet** for field use?

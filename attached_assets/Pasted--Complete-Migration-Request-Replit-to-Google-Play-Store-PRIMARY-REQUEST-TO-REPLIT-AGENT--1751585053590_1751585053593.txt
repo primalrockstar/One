@@ -1,0 +1,262 @@
+# Complete Migration Request: Replit to Google Play Store
+
+## PRIMARY REQUEST TO REPLIT AGENT
+
+**"I need to migrate my EMS Training Platform from Replit to Google Play Store. Please help me with a complete export and provide guidance on converting this to an Android app. I'm experiencing offline issues and need to create a stable mobile application."**
+
+---
+
+## CRITICAL EXPORT REQUIREMENTS
+
+### 1. COMPLETE SOURCE CODE EXPORT
+**Request:** "Please export all source code files from my EMS Training Platform project and provide instructions for setting up the development environment locally."
+
+**Specific needs:**
+- All HTML, CSS, JavaScript files
+- All backend code (Python, Node.js, etc.)
+- Configuration files (package.json, requirements.txt, .env)
+- Database schema and connection files
+- Server configuration files
+- All custom modules and libraries
+
+**Follow-up question:** "What is the main technology stack used in this project? (React, Vue, vanilla JS, Python Flask, Node.js, etc.)"
+
+### 2. DATABASE AND CONTENT MIGRATION
+**Request:** "I need to export all databases and content for offline mobile access. Please provide complete data exports."
+
+**Specific needs:**
+- Drug reference database (50+ medications with full details)
+- Study resources and flashcards (420+ items)
+- EMS protocols and procedures (15+ protocols)
+- Assessment tools data (8 tools including Glasgow Coma Scale)
+- Clinical calculators data
+- All medical content and references
+
+**Follow-up question:** "How is the data currently stored? Can you provide SQL dumps, JSON exports, or CSV files for all content?"
+
+### 3. MOBILE-SPECIFIC REQUIREMENTS
+**Request:** "Help me understand what needs to be modified for mobile deployment and offline functionality."
+
+**Specific needs:**
+- Mobile-responsive design elements
+- Touch-friendly interface components
+- Offline data storage solutions
+- Mobile-optimized media assets
+- Voice control implementation details
+- AR visualization requirements for mobile
+
+**Follow-up question:** "What features currently require internet connectivity? How can these be made to work offline?"
+
+### 4. API AND BACKEND ARCHITECTURE
+**Request:** "Please document all API endpoints, external services, and backend architecture for mobile app integration."
+
+**Specific needs:**
+- Complete API endpoint documentation
+- AI Drug Advisor implementation details
+- External API integrations and keys
+- Authentication and security systems
+- Database connection methods
+- Server hosting requirements
+
+**Follow-up question:** "Can you provide a Postman collection or API documentation? What external services does the AI Drug Advisor use?"
+
+### 5. MEDIA AND ASSETS OPTIMIZATION
+**Request:** "Export all media assets and provide guidance on optimizing them for mobile devices."
+
+**Specific needs:**
+- All images, icons, and graphics
+- Audio files for voice features
+- Video content for med simulations
+- 3D models for AR visualization
+- Font files and styling assets
+- Mobile-optimized versions of media
+
+**Follow-up question:** "Are there high-resolution assets that need to be compressed for mobile? What's the total size of all media files?"
+
+---
+
+## ANDROID CONVERSION QUESTIONS
+
+### Technical Architecture Assessment
+**Ask:** "Based on my EMS Training Platform, what's the best approach for Android conversion?"
+
+**Options to discuss:**
+1. **Native Android (Java/Kotlin)** - Best performance, most work
+2. **React Native** - Good balance of performance and development speed
+3. **Flutter** - Cross-platform, modern framework
+4. **Hybrid WebView** - Quickest conversion, some limitations
+
+**Follow-up:** "What are the pros and cons of each approach for my specific app features?"
+
+### Feature-Specific Conversion
+**Ask:** "How should I handle these specific features in the Android app?"
+
+**Critical features:**
+- Voice control functionality
+- AR visualization capabilities
+- AI Drug Advisor integration
+- Offline data access
+- Cross-platform compatibility
+- Push notifications for updates
+
+**Follow-up:** "Which features will be most challenging to implement on mobile?"
+
+### Performance and Optimization
+**Ask:** "What performance considerations should I plan for when converting to Android?"
+
+**Areas to cover:**
+- App size optimization
+- Loading speed for medical content
+- Battery usage for AR features
+- Memory management for large datasets
+- Network usage optimization
+- Offline synchronization
+
+---
+
+## GOOGLE PLAY STORE PREPARATION
+
+### Content and Compliance
+**Ask:** "What content or features might need modification for Google Play Store approval?"
+
+**Medical app considerations:**
+- Medical disclaimers and warnings
+- Content accuracy verification
+- Professional endorsements
+- Privacy policy requirements
+- Data handling compliance
+- Age restrictions and content ratings
+
+### App Store Optimization
+**Ask:** "Help me prepare the marketing materials and app store listing content."
+
+**Materials needed:**
+- App description and feature highlights
+- Screenshots and promotional graphics
+- Video demonstrations
+- Keyword optimization suggestions
+- Privacy policy template
+- Terms of service template
+
+---
+
+## DEPLOYMENT STRATEGY
+
+### Development Environment Setup
+**Ask:** "What tools and software do I need to install for Android development?"
+
+**Requirements:**
+- Android Studio installation
+- SDK requirements
+- Development device setup
+- Testing environment configuration
+- Build tools and dependencies
+
+### Testing and Quality Assurance
+**Ask:** "How should I test the converted app before Google Play submission?"
+
+**Testing areas:**
+- Functionality testing across devices
+- Performance testing with large datasets
+- Offline functionality verification
+- AR feature testing on different devices
+- Voice control testing
+- Medical content accuracy verification
+
+### Submission Process
+**Ask:** "What's the step-by-step process for submitting to Google Play?"
+
+**Submission requirements:**
+- Google Play Developer account setup
+- App signing and security
+- Content rating completion
+- Policy compliance verification
+- Beta testing setup
+- Release management
+
+---
+
+## SPECIFIC TECHNICAL QUESTIONS
+
+### Current Implementation
+1. **"What database system are you using for the medical content?"**
+2. **"How is the AI Drug Advisor currently implemented?"**
+3. **"What external APIs or services does the app depend on?"**
+4. **"How large is the complete app including all content?"**
+5. **"What are the current server requirements and hosting costs?"**
+
+### Mobile Optimization
+1. **"How can I optimize the 420+ study resources for mobile viewing?"**
+2. **"What's the best way to implement offline search functionality?"**
+3. **"How should I handle updates to medical protocols and drug information?"**
+4. **"What's the recommended approach for syncing data between devices?"**
+
+### Monetization and Business
+1. **"What pricing model works best for medical training apps?"**
+2. **"How can I implement subscription tiers for different certification levels?"**
+3. **"What analytics should I track for medical education apps?"**
+4. **"How can I gather user feedback for continuous improvement?"**
+
+---
+
+## IMMEDIATE ACTION ITEMS
+
+### Phase 1: Export Everything (Today)
+- [ ] Complete source code export
+- [ ] Database and content export
+- [ ] Media assets download
+- [ ] API documentation
+- [ ] Technical specifications
+
+### Phase 2: Environment Setup (This Week)
+- [ ] Set up local development environment
+- [ ] Test exported code locally
+- [ ] Choose Android conversion approach
+- [ ] Install necessary development tools
+
+### Phase 3: Conversion Planning (Next Week)
+- [ ] Create detailed conversion roadmap
+- [ ] Identify potential challenges
+- [ ] Plan testing strategy
+- [ ] Prepare Google Play materials
+
+### Phase 4: Development (Following Weeks)
+- [ ] Begin Android app development
+- [ ] Implement offline functionality
+- [ ] Optimize for mobile performance
+- [ ] Conduct thorough testing
+
+### Phase 5: Deployment (Final Phase)
+- [ ] Submit to Google Play
+- [ ] Handle review process
+- [ ] Launch and monitor
+- [ ] Plan updates and maintenance
+
+---
+
+## SUCCESS METRICS
+
+**Define success criteria:**
+- App loads in under 3 seconds
+- All medical content accessible offline
+- Voice control works on 90% of devices
+- AR features function smoothly
+- 4+ star rating on Google Play
+- Positive feedback from EMS professionals
+
+---
+
+## BACKUP AND SECURITY
+
+**Ask:** "How should I backup and secure all exported data?"
+
+**Security considerations:**
+- Secure storage of medical content
+- API key management
+- User data protection
+- HIPAA compliance considerations
+- Regular backup procedures
+
+---
+
+*Use this comprehensive request to ensure nothing is missed in your migration from Replit to Google Play Store. Copy and paste sections as needed when communicating with your Replit agent.*

@@ -1,0 +1,257 @@
+Here’s an exhaustive list of common patient medications you may encounter in the field, including brand/generic names, key EMS-relevant details, and red flags:
+
+🫀 Cardiac Medications
+1. Beta-Blockers
+Atenolol (Tenormin)
+
+Use: HTN, angina
+
+EMS Concern: Masks hypoglycemia/tachycardia; contraindicated in asthma.
+
+Metoprolol (Lopressor, Toprol XL)
+
+Dose: 25-100 mg PO BID
+
+EMS Concern: Avoid in cardiogenic shock.
+
+Propranolol (Inderal)
+
+Use: HTN, migraine
+
+EMS Concern: Can cause severe bradycardia.
+
+2. ACE Inhibitors
+Lisinopril (Prinivil, Zestril)
+
+EMS Concern: Angioedema risk (hold NTG).
+
+Enalapril (Vasotec)
+
+Dose: 2.5-40 mg PO daily
+
+Interaction: Hyperkalemia with potassium-sparing diuretics.
+
+3. ARBs
+Losartan (Cozaar)
+
+Use: HTN (alternative to ACE inhibitors)
+
+EMS Concern: Less angioedema risk than ACE-Is.
+
+4. Calcium Channel Blockers
+Amlodipine (Norvasc)
+
+EMS Concern: Refractory hypotension (treat with calcium gluconate).
+
+Diltiazem (Cardizem)
+
+Use: Afib/HTN
+
+EMS Concern: Bradycardia risk.
+
+5. Antiarrhythmics
+Amiodarone (Pacerone)
+
+EMS Concern: Pulmonary toxicity (long-term use).
+
+Digoxin (Lanoxin)
+
+Dose: 0.125-0.25 mg PO daily
+
+Toxicity: Nausea, vision changes, hyperkalemia.
+
+💊 Analgesics & Anti-Inflammatories
+6. NSAIDs
+Ibuprofen (Advil, Motrin)
+
+EMS Concern: GI bleed risk, kidney injury.
+
+Naproxen (Aleve)
+
+Dose: 220-550 mg PO BID
+
+Celecoxib (Celebrex)
+
+Use: Arthritis (less GI bleed risk).
+
+7. Acetaminophen (Tylenol)
+Toxicity: >4 g/day → liver failure (antidote: NAC).
+
+8. Opioids
+Oxycodone (OxyContin, Percocet)
+
+EMS Concern: Respiratory depression (naloxone reversal).
+
+Hydrocodone (Vicodin)
+
+Dose: 5-10 mg PO q4-6h
+
+Tramadol (Ultram)
+
+Interaction: Seizure risk with SSRIs.
+
+🩸 Blood Thinners
+9. Anticoagulants
+Warfarin (Coumadin)
+
+EMS Concern: Check INR; bleeding risk (reverse with vitamin K).
+
+Apixaban (Eliquis)
+
+Use: Afib/DVT
+
+Reversal: Andexanet alfa (expensive!).
+
+Clopidogrel (Plavix)
+
+Use: Post-stent
+
+EMS Concern: Bleeding (no reversal agent).
+
+10. Antiplatelets
+Aspirin (Bayer, Ecotrin)
+
+Dose: 81-325 mg PO daily
+
+EMS Action: Give 324 mg for ACS.
+
+🌡️ Diabetes Medications
+11. Insulins
+Glargine (Lantus)
+
+Use: Long-acting basal insulin.
+
+Lispro (Humalog)
+
+Use: Rapid-acting (watch for hypoglycemia).
+
+12. Oral Hypoglycemics
+Metformin (Glucophage)
+
+EMS Concern: Lactic acidosis (hold in shock).
+
+Glipizide (Glucotrol)
+
+Risk: Hypoglycemia (especially in elderly).
+
+🧠 Psych & Neuro Meds
+13. SSRIs/SNRIs
+Sertraline (Zoloft)
+
+Interaction: Serotonin syndrome with tramadol/MAOIs.
+
+Venlafaxine (Effexor)
+
+EMS Concern: Hypertension in overdose.
+
+14. Benzodiazepines
+Alprazolam (Xanax)
+
+Dose: 0.25-2 mg PO TID
+
+EMS Concern: Respiratory depression (flumazenil reversal).
+
+15. Antipsychotics
+Quetiapine (Seroquel)
+
+Use: Bipolar/schizophrenia
+
+EMS Concern: QT prolongation.
+
+🚨 High-Risk Combinations
+Medication	Dangerous Mix	EMS Action
+Warfarin	NSAIDs/aspirin	🩸 Watch for bleeding
+Beta-blocker	Insulin	🍬 Check glucose frequently
+Opioid	Benzodiazepine	💉 Naloxone + ventilate
+📥 Printable Cheat Sheet
+Download Full Drug List PDF (Simulated link)
+
+Pro Tip: Use pill identifiers like Epocrates or NIH Pillbox for unknown meds.
+
+Need pediatric doses or herbal interactions? Ask below! 💊
+
+add herbal interactions
+Here’s an expanded list including common herbal supplements and their critical interactions with medications, formatted for quick field reference:
+
+🌿 Herbal Supplement Interactions Cheat Sheet
+Key: ⚠️ = Dangerous Interaction | 🚫 = Contraindicated | 🔄 = Alters Drug Effects
+
+1. St. John’s Wort (Hypericum perforatum)
+Uses: Depression, anxiety
+
+Interactions:
+⚠️ SSRIs (e.g., Zoloft): Serotonin syndrome (agitation, hyperthermia)
+🔄 Warfarin: Reduces anticoagulant effect → clotting risk
+🔄 Digoxin: Lowers blood levels → reduces efficacy
+🚫 HIV meds (e.g., indinavir): Treatment failure
+
+2. Ginkgo Biloba
+Uses: Memory enhancement
+
+Interactions:
+⚠️ Aspirin/Warfarin: Increased bleeding risk (inhibits platelets)
+⚠️ NSAIDs (e.g., ibuprofen): GI bleed synergy
+🔄 Antiseizure meds (e.g., Dilantin): Alters metabolism
+
+3. Garlic (Allium sativum)
+Uses: Hypertension, cholesterol
+
+Interactions:
+⚠️ Warfarin/Plavix: Major bleeding risk
+🔄 Saquinavir (HIV): Reduces drug levels by 50%
+
+4. Ginseng (Panax ginseng)
+Uses: Energy booster
+
+Interactions:
+⚠️ Warfarin: Decreases INR → clotting risk
+🔄 Insulin/Oral hypoglycemics: Unpredictable glucose changes
+
+5. Echinacea
+Uses: Immune support
+
+Interactions:
+🚫 Immunosuppressants (e.g., prednisone): Counteracts effects
+🔄 Caffeine: May increase jitteriness
+
+6. Valerian Root
+Uses: Insomnia, anxiety
+
+Interactions:
+⚠️ Benzodiazepines (e.g., Xanax): Sedation synergy → respiratory depression
+🔄 Alcohol: Enhanced CNS depression
+
+7. Licorice Root (Glycyrrhiza glabra)
+Uses: Sore throat, ulcers
+
+Interactions:
+⚠️ Digoxin: Toxicity risk (hypokalemia)
+⚠️ Diuretics (e.g., Lasix): Severe hypokalemia → arrhythmias
+
+8. Kava Kava
+Uses: Anxiety relief
+
+Interactions:
+🚫 Liver-toxic meds (e.g., statins, acetaminophen): Hepatotoxicity risk
+⚠️ Alcohol: Potentiates sedation
+
+9. Saw Palmetto
+Uses: BPH symptoms
+
+Interactions:
+🔄 Warfarin: Increased bleeding (theoretical)
+🔄 Finasteride: May interfere with PSA tests
+
+10. Milk Thistle (Silybum marianum)
+Uses: Liver detox
+
+Interactions:
+🔄 Antipsychotics (e.g., Haldol): Alters liver metabolism
+🔄 Metformin: May enhance hypoglycemia
+
+🚨 High-Risk Herb-Drug Combos
+Herb	Avoid With	EMS Concern
+St. John’s Wort	SSRIs, Warfarin	Serotonin syndrome, clotting
+Ginkgo	Aspirin, NSAIDs	Uncontrolled bleeding
+Kava	Benzodiazepines, Alcohol	Respiratory arrest
+Licorice	Digoxin, Diuretics	Deadly hypokalemia

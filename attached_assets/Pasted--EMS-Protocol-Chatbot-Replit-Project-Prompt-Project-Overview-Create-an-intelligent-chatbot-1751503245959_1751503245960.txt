@@ -1,0 +1,305 @@
+# EMS Protocol Chatbot - Replit Project Prompt
+
+## Project Overview
+Create an intelligent chatbot for Emergency Medical Services (EMS) personnel that provides instant access to medical protocols, drug information, and interactive learning tools. This bot will serve as a digital assistant for paramedics, EMTs, and EMS students.
+
+## Core Functionality Requirements
+
+### 1. Protocol Assistant
+- **Drug Information Queries**: Instant dosing, contraindications, and administration routes
+- **Medical Protocol Navigation**: Step-by-step guidance through emergency protocols
+- **Assessment Tool Support**: Interactive checklists for FAST, GCS, APGAR, etc.
+- **Equipment Guidance**: Instructions for medical device usage and troubleshooting
+
+### 2. Interactive Learning System
+- **Scenario-Based Training**: Generate emergency scenarios for practice
+- **Quiz Generation**: Adaptive quizzes on EMS topics with immediate feedback
+- **Concept Explanations**: Break down complex medical concepts into understandable language
+- **Progress Tracking**: Monitor learning achievements and identify knowledge gaps
+
+### 3. Real-Time Emergency Support
+- **Quick Reference Lookups**: Instant access to critical information during calls
+- **Decision Trees**: Guide users through complex medical decision-making
+- **Timer Integration**: Built-in timers for time-sensitive procedures
+- **Voice Input Support**: Hands-free operation for field use
+
+## Technical Architecture
+
+### Backend (Node.js/Express)
+```javascript
+// Core structure needed:
+- Express.js server for API endpoints
+- WebSocket connections for real-time chat
+- Database integration (PostgreSQL/SQLite) for protocols
+- Pattern matching engine for keyword recognition
+- LOCAL KNOWLEDGE BASE ONLY - no external API calls
+- Content validation system to ensure responses come from app data
+```
+
+### Frontend (React/HTML)
+```javascript
+// UI Components required:
+- Chat interface with message history
+- Quick action buttons for common queries
+- Search functionality for protocol database
+- Responsive design for mobile/tablet use
+- Dark mode for low-light environments
+```
+
+### Database Schema
+```sql
+-- Essential tables for LOCAL KNOWLEDGE BASE:
+protocols (id, name, category, steps, contraindications, keywords)
+medications (id, name, adult_dose, pediatric_dose, contraindications, keywords)
+assessments (id, name, steps, scoring, keywords)
+procedures (id, name, equipment, steps, warnings, keywords)
+user_interactions (id, query, response, timestamp, source_table)
+learning_progress (user_id, topic, score, date)
+content_index (id, content_type, content_id, searchable_text)
+
+-- CRITICAL: All responses must reference existing app content
+-- No external data sources or AI-generated content allowed
+```
+
+## Critical Content Restriction Requirements
+
+### ⚠️ LOCAL KNOWLEDGE BASE ONLY
+**The chatbot must NEVER access external information sources. All responses must come exclusively from content stored within the app's database.**
+
+### Content Source Validation
+```javascript
+// Every chatbot response must include source validation:
+const validateResponse = (response, query) => {
+  // Ensure response content exists in local database
+  const sourceFound = checkLocalDatabase(response.content);
+  if (!sourceFound) {
+    return "I can only provide information from the protocols and resources loaded in this app. Please check the main sections for that information.";
+  }
+  return response;
+};
+```
+
+### Restricted Information Handling
+- **Unknown Topics**: "I don't have information about that in my current database. Please check the main protocol sections."
+- **External References**: "I can only reference information that's been loaded into this app."
+- **Medical Updates**: "This app contains specific protocol versions. Check with your medical director for the most current guidelines."
+
+### Content Boundaries
+```javascript
+// Approved content sources within app:
+- Loaded EMS protocols and procedures
+- Pre-populated medication database
+- Assessment tools and scoring systems
+- Equipment operation guides
+- Training scenarios created within the app
+
+// FORBIDDEN content sources:
+- External websites or APIs
+- Real-time medical updates
+- AI-generated medical advice
+- User-contributed content without validation
+- Any information not explicitly loaded into the app database
+```
+
+## Sample Chatbot Interactions (LOCAL CONTENT ONLY)
+
+### Drug Information (From App Database)
+```
+User: "What's the dose of epi for anaphylaxis?"
+Bot: "From our medication database:
+     Epinephrine for anaphylaxis:
+     • Adult: 0.3-0.5mg IM (1:1000) lateral thigh
+     • Pediatric: 0.01mg/kg IM (max 0.3mg)
+     • Repeat every 5-15 minutes if needed
+     ⚠️ Source: App Protocol Database - Anaphylaxis Section"
+
+User: "What about Drug X?"
+Bot: "I don't have information about Drug X in my current database. Please check the main medication reference section or consult your protocol manual."
+```
+
+### Protocol Guidance (From Local Protocols)
+```
+User: "Chest pain protocol"
+Bot: "From our chest pain protocol (loaded version 2.1):
+     1. ✅ Obtain vital signs
+     2. ⏱️ 12-lead ECG
+     3. 🩺 OPQRST pain assessment
+     4. 💊 Consider aspirin if no contraindications
+     
+     This guidance comes from the protocols loaded in this app. What's your next step?"
+
+User: "What about the new 2024 guidelines?"
+Bot: "I can only reference the protocol versions loaded in this app. For the most current guidelines, please check with your medical director or update the app protocols."
+```
+
+### Learning Mode (From App Content)
+```
+User: "Quiz me on cardiac rhythms"
+Bot: "Cardiac Rhythm Quiz from our training database:
+     Question 1/10 - Based on rhythms in our learning section
+     📊 [Shows ECG from app database]
+     What rhythm is this?
+     A) Normal sinus rhythm
+     B) Atrial fibrillation  
+     C) Ventricular tachycardia
+     D) Atrial flutter
+     
+     Source: App Training Module - Cardiac Rhythms"
+```
+
+### Content Boundary Examples
+```
+User: "What's the latest research on cardiac arrest?"
+Bot: "I can only provide information from the protocols and resources loaded in this app. For the latest research, please consult current medical literature or check with your medical director."
+
+User: "Can you look up information online?"
+Bot: "I don't have access to external information. I can only help with the protocols, medications, and procedures stored in this app's database."
+```
+
+## Key Features to Implement
+
+### Phase 1 - Core Bot (Week 1-2)
+- [x] Basic keyword recognition and responses FROM LOCAL DATABASE ONLY
+- [x] Drug dosing lookup system (pre-loaded medications only)
+- [x] Simple protocol navigation (app protocols only)
+- [x] Chat interface with message history
+- [x] Content source validation system
+
+### Phase 2 - Enhanced Intelligence (Week 3-4)
+- [x] Decision tree logic for protocols stored in app
+- [x] Context-aware responses using local content index
+- [x] User preference learning (within app boundaries)
+- [x] Enhanced search through local protocol database
+
+### Phase 3 - Advanced Features (Week 5-6)
+- [x] Advanced pattern matching for local content
+- [x] Voice input/output capabilities (offline compatible)
+- [x] Personalized learning paths from app training modules
+- [x] Offline functionality for field use (essential for local-only operation)
+
+### Phase 4 - Professional Features (Week 7-8)
+- [x] Multi-user support with role permissions
+- [x] Analytics dashboard for local usage patterns
+- [x] Content management system for protocol updates
+- [x] Advanced reporting using app interaction data only
+
+## Critical EMS Knowledge Areas to Include
+
+### Medical Protocols
+- Cardiac arrest (ACLS/BLS)
+- Stroke assessment and management
+- Trauma protocols (ATLS)
+- Respiratory emergencies
+- Pediatric emergencies
+- Overdose/poisoning protocols
+
+### Medication Database
+- Emergency medications with dosing
+- Drug interactions and contraindications
+- Alternative medications and substitutions
+- Pediatric vs adult dosing calculations
+
+### Assessment Tools
+- Glasgow Coma Scale (GCS)
+- FAST stroke assessment
+- APGAR scoring
+- Pain scales
+- Trauma scoring systems
+
+## Technical Considerations
+
+### Performance Requirements
+- **Response Time**: < 500ms for common queries
+- **Uptime**: 99.9% availability for emergency use
+- **Concurrent Users**: Support 50+ simultaneous users
+- **Data Accuracy**: Medical information must be current and verified
+
+### Security & Compliance
+- No patient data storage (HIPAA considerations)
+- Secure API endpoints  
+- Input validation and sanitization
+- Rate limiting to prevent abuse
+- **CONTENT ISOLATION**: Strict boundaries preventing external data access
+- **SOURCE VERIFICATION**: Every response must trace back to app database
+- **NO EXTERNAL APIS**: Zero integration with outside information sources
+
+### Mobile Optimization
+- Touch-friendly interface
+- Offline capability for poor connectivity
+- Battery-efficient operation
+- Easy one-handed use
+
+## Deployment Strategy
+
+### Development Environment (Replit)
+- Use Replit's built-in database for protocol storage
+- Implement WebSocket for real-time chat
+- Leverage Replit's always-on hosting
+- Utilize collaborative coding features for team development
+
+### Production Considerations
+- Environment variables for API keys
+- Automated testing for medical accuracy
+- Version control for protocol updates
+- Monitoring and logging for performance tracking
+
+## Success Metrics
+
+### User Engagement
+- Daily active users
+- Average session duration
+- Query resolution rate
+- User satisfaction scores
+
+### Learning Effectiveness
+- Quiz completion rates
+- Knowledge retention scores
+- Scenario performance improvement
+- Certification exam pass rates
+
+### Operational Impact
+- Response time to critical queries
+- Reduction in protocol lookup time
+- Field usage during actual emergencies
+- Integration with existing EMS workflows
+
+## Getting Started Checklist
+
+1. **Setup Replit Environment**
+   - [ ] Create new Node.js Repl
+   - [ ] Install required dependencies (express, socket.io, database drivers)
+   - [ ] Set up basic project structure
+
+2. **Build Core Infrastructure**
+   - [ ] Create database schema for protocols and medications
+   - [ ] Implement basic chat server with WebSocket
+   - [ ] Build simple keyword matching system
+
+3. **Populate Knowledge Base**
+   - [ ] Add top 20 most common EMS queries
+   - [ ] Include critical drug information
+   - [ ] Implement basic protocol decision trees
+
+4. **Develop User Interface**
+   - [ ] Create responsive chat interface
+   - [ ] Add quick action buttons for common queries
+   - [ ] Implement search functionality
+
+5. **Test and Iterate**
+   - [ ] Test with real EMS scenarios
+   - [ ] Gather feedback from EMS professionals
+   - [ ] Refine responses based on usage patterns
+
+## Additional Resources to Include
+
+- **Reference Links**: Direct links to official EMS protocols
+- **Visual Aids**: Diagrams for procedures and anatomy
+- **Audio Clips**: Pronunciation guides for medical terms
+- **Video Integration**: Procedure demonstrations
+- **Downloadable Resources**: Quick reference cards and checklists
+
+---
+
+**Ready to revolutionize EMS education and field support? Start building your intelligent EMS chatbot today!**
+
+This prompt provides everything needed to create a comprehensive, professional-grade EMS chatbot that will genuinely help save lives by making critical medical knowledge instantly accessible to emergency responders.
