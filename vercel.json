@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "api/index.ts",
+      "src": "api/**/*.ts",
       "use": "@vercel/node"
     },
     {
@@ -16,11 +16,15 @@
   "routes": [
     {
       "src": "/api/(.*)",
-      "dest": "/api/index.ts"
+      "dest": "api/index.ts"
+    },
+    {
+      "src": "/((?!api/|sw.js|favicon.ico|ProMedixEMS-Logo.png|.*\\..*).*)",
+      "dest": "dist/index.html"
     },
     {
       "src": "/(.*)",
-      "dest": "/dist/$1"
+      "dest": "dist/$1"
     }
   ]
 }
