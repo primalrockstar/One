@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import path from 'path'
 
-// This is the definitive configuration that matches tsconfig.json.
+// This is the definitive configuration that matches the final tsconfig.json.
 export default defineConfig({
   // The root is the 'client' folder where index.html lives.
   root: 'client',
