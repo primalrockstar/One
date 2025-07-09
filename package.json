@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node api/index.js",
     "dev": "vite",
-    "build": "vite build client",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "author": "Shaun Williamson",
@@ -49,7 +49,7 @@
     "react-webcam": "^7.2.0",
     "recharts": "^2.12.7",
     "sqlite3": "^5.1.7",
-    "three": "^0.166.1",
+    "three": "^0.166.0",
     "uuid": "^10.0.0",
     "ws": "^8.18.0",
     "zustand": "^4.5.4"
