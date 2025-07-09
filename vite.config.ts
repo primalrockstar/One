@@ -2,23 +2,23 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import path from 'path'
 
-// This is the definitive configuration for a project with a 'client' sub-directory.
+// This is the definitive configuration that matches tsconfig.json.
 export default defineConfig({
-  // Sets the root of the application to the 'client' folder.
-  root: path.resolve(__dirname, 'client'),
+  // The root is the 'client' folder where index.html lives.
+  root: 'client',
+  
+  // The alias for Vite, matching the 'paths' in tsconfig.
+  resolve: {
+    alias: {
+      '@': path.resolve(__dirname, 'client/src'),
+    },
+  },
   
   plugins: [react()],
   
   build: {
-    // Builds the output into a 'dist' folder at the top level of the project.
-    outDir: path.resolve(__dirname, 'dist'),
+    // The output directory is relative to the root, so '../dist' puts it back at the top level.
+    outDir: '../dist',
     emptyOutDir: true,
-  },
-
-  server: {
-    // Ensures the development server can access files from the project root.
-    fs: {
-      allow: [path.resolve(__dirname)],
-    },
   },
 })
