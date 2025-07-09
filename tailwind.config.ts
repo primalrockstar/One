@@ -1,10 +1,13 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   darkMode: ["class"],
-  // This is the critical fix. It tells Tailwind to scan ALL relevant files
-  // inside your 'client' directory to learn all your classes.
+  // These paths are now explicit and correct, relative to the project root.
   content: [
-    './client/**/*.{html,js,ts,jsx,tsx}',
+    './client/pages/**/*.{ts,tsx}',
+    './client/components/**/*.{ts,tsx}',
+    './client/app/**/*.{ts,tsx}',
+    './client/src/**/*.{ts,tsx}',
+    './client/index.html'
   ],
   prefix: "",
   theme: {
