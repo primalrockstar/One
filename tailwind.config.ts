@@ -1,6 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   darkMode: ["class"],
+  // These paths are relative to the root of the project, not this config file.
   content: [
     './client/pages/**/*.{ts,tsx}',
     './client/components/**/*.{ts,tsx}',
