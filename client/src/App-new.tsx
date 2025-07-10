@@ -7,16 +7,16 @@ import { BrowserRouter as Router, Routes, Route, Link, useParams, useNavigate } 
 import { Home, BookOpen, Heart, Activity, Sliders, LogOut, CheckSquare, List, AlertTriangle, ArrowLeft, Plus, X, Star, Settings, User, Search, Maximize, Play, Pause, RefreshCw } from 'lucide-react';
 
 // THIS IS THE DEFINITIVE FIX. All local imports now use the explicit .ts or .tsx file extension, which removes all ambiguity for the build tool.
-import { protocols } from './data/protocols.ts';
-import { medications, Medication } from './data/medications.ts';
-import { ecgQuizzes } from './data/ecg-quizzes.ts';
-import { studyCards } from './data/study-cards.ts';
-import { equipmentChecklists, EquipmentCategory, EquipmentItem, CertificationLevel as EquipCertLevel } from './data/equipment-checklists.ts';
-import { trainingScenarios } from './data/training-scenarios.ts';
-import { medicationSimulations, MedicationSimulation } from './data/medication-simulations.ts';
-import { procedures, Procedure } from './data/procedures.ts';
-import ARMedicationVisualization from './components/ARMedicationVisualization.tsx';
-import EMSChatbot from './components/EMSChatbot.tsx';
+import { protocols } from './data/protocols';
+import { medications, Medication } from './data/medications';
+import { ecgQuizzes } from './data/ecg-quizzes';
+import { studyCards } from './data/study-cards';
+import { equipmentChecklists, EquipmentCategory, EquipmentItem, CertificationLevel as EquipCertLevel } from './data/equipment-checklists';
+import { trainingScenarios } from './data/training-scenarios';
+import { medicationSimulations, MedicationSimulation } from './data/medication-simulations';
+import { procedures, Procedure } from './data/procedures';
+import ARMedicationVisualization from './components/ARMedicationVisualization';
+import EMSChatbot from './components/EMSChatbot';
 
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, BarChart, Bar } from 'recharts';
 
