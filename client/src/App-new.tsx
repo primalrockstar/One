@@ -6,20 +6,21 @@ import React, { useState, useEffect, useRef, useCallback, ChangeEvent, ReactNode
 import { BrowserRouter as Router, Routes, Route, Link, useParams, useNavigate } from 'react-router-dom';
 import { Home, BookOpen, Heart, Activity, Sliders, LogOut, CheckSquare, List, AlertTriangle, ArrowLeft, Plus, X, Star, Settings, User, Search, Maximize, Play, Pause, RefreshCw } from 'lucide-react';
 
-// THIS IS THE FIX: All imports now use direct relative paths. No more failing alias.
-import { protocols } from './data/protocols';
-import { medications, Medication } from './data/medications';
-import { ecgQuizzes } from './data/ecg-quizzes';
-import { studyCards } from './data/study-cards';
-import { equipmentChecklists, EquipmentCategory, EquipmentItem, CertificationLevel as EquipCertLevel } from './data/equipment-checklists';
-import { trainingScenarios } from './data/training-scenarios';
-import { medicationSimulations, MedicationSimulation } from './data/medication-simulations';
-import { procedures, Procedure } from './data/procedures';
-import ARMedicationVisualization from './components/ARMedicationVisualization';
-import EMSChatbot from './components/EMSChatbot';
+// THE FIX: Using the '@/' alias defined in tsconfig.json and vite.config.ts
+import { protocols } from '@/data/protocols';
+import { medications, Medication } from '@/data/medications';
+import { ecgQuizzes } from '@/data/ecg-quizzes';
+import { studyCards } from '@/data/study-cards';
+import { equipmentChecklists, EquipmentCategory, EquipmentItem, CertificationLevel as EquipCertLevel } from '@/data/equipment-checklists';
+import { trainingScenarios } from '@/data/training-scenarios';
+import { medicationSimulations, MedicationSimulation } from '@/data/medication-simulations';
+import { procedures, Procedure } from '@/data/procedures';
+import ARMedicationVisualization from '@/components/ARMedicationVisualization';
+import EMSChatbot from '@/components/EMSChatbot';
 
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, BarChart, Bar } from 'recharts';
 
+// ... The rest of the file is identical ...
 const Sidebar = () => (
   <aside className="w-64 bg-gray-800 text-white p-4 flex-col hidden md:flex">
     <div className="text-2xl font-bold mb-8">ProMedix EMS</div>
