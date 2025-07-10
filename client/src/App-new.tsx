@@ -1233,7 +1233,7 @@ const ProcedureDetail = () => {
   }
 
 const App = () => (
-    <Router>
+   <Router>
       <div className="flex h-screen bg-gray-100">
         <Sidebar />
         <div className="flex-1 flex flex-col overflow-hidden">
@@ -1263,5 +1263,6 @@ const App = () => (
       </div>
     </Router>
   );
+};
 
 export default App;
