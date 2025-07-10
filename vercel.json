@@ -6,12 +6,8 @@
       "dest": "api/index.ts"
     },
     {
-      "src": "/((?!api/|sw.js|favicon.ico|ProMedixEMS-Logo.png|.*\\..*).*)",
-      "dest": "/index.html"
-    },
-    {
       "src": "/(.*)",
-      "dest": "/$1"
+      "dest": "/index.html"
     }
   ]
 }
