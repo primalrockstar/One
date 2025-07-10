@@ -5,7 +5,7 @@
     "lib": ["DOM", "DOM.Iterable", "ESNext"],
     "allowJs": false,
     "skipLibCheck": true,
-    "esModuleInterop": false,
+    "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
@@ -15,12 +15,11 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
-    // This is the critical change: defines the '@' alias for TypeScript.
     "baseUrl": ".",
     "paths": {
       "@/*": ["client/src/*"]
     }
   },
-  // This is also a critical change: simplifies the scope to just the client app.
-  "include": ["client"]
+  "include": ["client"],
+  "references": []
 }
