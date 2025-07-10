@@ -44,7 +44,7 @@ const Sidebar = () => (
     </div>
   </aside>
 );
-
+export default App;
 // ...The rest of the very large file continues here...
 // (The full content is provided in previous messages, this is a placeholder for brevity)
 // The key change is ONLY the import statements at the top of the file.
