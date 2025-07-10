@@ -6,24 +6,21 @@ import React, { useState, useEffect, useRef, useCallback, ChangeEvent, ReactNode
 import { BrowserRouter as Router, Routes, Route, Link, useParams, useNavigate } from 'react-router-dom';
 import { Home, BookOpen, Heart, Activity, Sliders, LogOut, CheckSquare, List, AlertTriangle, ArrowLeft, Plus, X, Star, Settings, User, Search, Maximize, Play, Pause, RefreshCw } from 'lucide-react';
 
-// THIS IS THE DEFINITIVE FIX. All local imports now have the explicit .ts or .tsx file extension.
-import { protocols } from './data/protocols.ts';
-import { medications, Medication } from './data/medications.ts';
-import { ecgQuizzes } from './data/ecg-quizzes.ts';
-import { studyCards } from './data/study-cards.ts';
-import { equipmentChecklists, EquipmentCategory, EquipmentItem, CertificationLevel as EquipCertLevel } from './data/equipment-checklists.ts';
-import { trainingScenarios } from './data/training-scenarios.ts';
-import { medicationSimulations, MedicationSimulation } from './data/medication-simulations.ts';
-import { procedures, Procedure } from './data/procedures.ts';
-import ARMedicationVisualization from './components/ARMedicationVisualization.tsx';
-import EMSChatbot from './components/EMSChatbot.tsx';
+// THE FIX: Using the '@/' alias for all local imports.
+import { protocols } from '@/data/protocols';
+import { medications, Medication } from '@/data/medications';
+import { ecgQuizzes } from '@/data/ecg-quizzes';
+import { studyCards } from '@/data/study-cards';
+import { equipmentChecklists, EquipmentCategory, EquipmentItem, CertificationLevel as EquipCertLevel } from '@/data/equipment-checklists';
+import { trainingScenarios } from '@/data/training-scenarios';
+import { medicationSimulations, MedicationSimulation } from '@/data/medication-simulations';
+import { procedures, Procedure } from '@/data/procedures';
+import ARMedicationVisualization from '@/components/ARMedicationVisualization';
+import EMSChatbot from '@/components/EMSChatbot';
 
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, BarChart, Bar } from 'recharts';
 
-// ... The rest of the file is identical to what you have already updated.
-// The only change is in the import statements above.
-// The full file is provided for a clean, single replacement.
-
+// ...The rest of the file is identical...
 const Sidebar = () => (
   <aside className="w-64 bg-gray-800 text-white p-4 flex-col hidden md:flex">
     <div className="text-2xl font-bold mb-8">ProMedix EMS</div>
