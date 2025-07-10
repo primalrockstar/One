@@ -6,7 +6,7 @@ import React, { useState, useEffect, useRef, useCallback, ChangeEvent, ReactNode
 import { BrowserRouter as Router, Routes, Route, Link, useParams, useNavigate } from 'react-router-dom';
 import { Home, BookOpen, Heart, Activity, Sliders, LogOut, CheckSquare, List, AlertTriangle, ArrowLeft, Plus, X, Star, Settings, User, Search, Maximize, Play, Pause, RefreshCw } from 'lucide-react';
 
-// THIS IS THE DEFINITIVE FIX. All local imports now use the explicit .ts or .tsx file extension, which removes all ambiguity for the build tool.
+// THIS IS THE DEFINITIVE FIX. All local imports now have the explicit .ts or .tsx file extension.
 import { protocols } from './data/protocols.ts';
 import { medications, Medication } from './data/medications.ts';
 import { ecgQuizzes } from './data/ecg-quizzes.ts';
@@ -22,6 +22,7 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Responsi
 
 // ... The rest of the file is identical to what you have already updated.
 // The only change is in the import statements above.
+// The full file is provided for a clean, single replacement.
 
 const Sidebar = () => (
   <aside className="w-64 bg-gray-800 text-white p-4 flex-col hidden md:flex">
